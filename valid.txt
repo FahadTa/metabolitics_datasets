@@ -1,0 +1,1761 @@
+Water	 associated_with 	 RNA polymerase II subunit A C-terminal domain phosphatase
+Water	 associated_with 	 Putative ATP-dependent RNA helicase DHX33
+Adenosine monophosphate	 associated_with 	 Probable E3 ubiquitin-protein ligase HERC1
+9,10-Epoxyoctadecenoic acid	 associated_with 	 Cytochrome P450 2C9
+Pyruvic acid	 associated_with 	 D-amino-acid oxidase
+Adenosine triphosphate	 associated_with 	 V-akt murine thymoma viral oncogene homolog 1
+Ascorbic acid	 associated_with 	 Prolyl 3-hydroxylase 2
+ADP	 associated_with 	 Serine/threonine-protein kinase TAO3
+Linoleic acid	 associated_with 	 Cytochrome P450 19A1
+Adenosine monophosphate	 associated_with 	 E3 ubiquitin-protein ligase MARCH8
+Potassium	 associated_with 	 Potassium voltage-gated channel subfamily C member 4
+Adenosine triphosphate	 associated_with 	 Probable cation-transporting ATPase 13A4
+L-Lysine	 associated_with 	 Histone-lysine N-methyltransferase MLL2
+Cyclic AMP	 associated_with 	 Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma
+Adenosine triphosphate	 associated_with 	 MAP kinase-activated protein kinase 3
+Calcium	 associated_with 	 E3 ubiquitin-protein ligase CBL
+Histamine	 associated_with 	 Histamine H4 receptor
+Norepinephrine	 associated_with 	 Alpha-2B adrenergic receptor
+Ornithine	 associated_with 	 Cationic amino acid transporter 3
+SM(d18:1/16:0)	 associated_with 	 GPI ethanolamine phosphate transferase 3
+S-Adenosylhomocysteine	 associated_with 	 Histone-lysine N-methyltransferase NSD3
+Testosterone	 associated_with 	 UDP-glucuronosyltransferase 1-4
+Guanidine	 associated_with 	 Agmatinase, mitochondrial
+Magnesium	 associated_with 	 Calcium-transporting ATPase type 2C member 2
+Adenosine triphosphate	 associated_with 	 Hexokinase-2
+Cyclic GMP	 associated_with 	 Adenylate cyclase type 5
+Guanosine triphosphate	 associated_with 	 Guanine nucleotide binding protein (G protein), alpha 14
+S-Adenosylmethionine	 associated_with 	 Trimethylguanosine synthase
+S-Adenosylmethionine	 associated_with 	 Uncharacterized methyltransferase WBSCR22
+Guanosine triphosphate	 associated_with 	 ADP-ribosylation factor 6
+Water	 associated_with 	 Dimethylaniline monooxygenase [N-oxide-forming] 4
+Fe2+	 associated_with 	 Cytochrome b-c1 complex subunit 10
+Water	 associated_with 	 Calcium-dependent phospholipase A2
+Water	 associated_with 	 Myotubularin-related protein 3
+ADP	 associated_with 	 Polyribonucleotide nucleotidyltransferase 1, mitochondrial
+SM(d18:0/16:1(9Z)(OH))	 associated_with 	 Non-lysosomal glucosylceramidase
+SM(d18:0/22:2(13Z,16Z)(OH))	 associated_with 	 Phosphatidylinositol glycan anchor biosynthesis class U protein
+Glycerophosphocholine	 associated_with 	 Phospholipase B1, membrane-associated
+Manganese	 associated_with 	 Ethanolaminephosphotransferase 1
+Acetic acid	 associated_with 	 Cocaine esterase
+L-Asparagine	 associated_with 	 60 kDa lysophospholipase
+Guanosine triphosphate	 associated_with 	 Rho guanine nucleotide exchange factor 18
+Calcium	 associated_with 	 Frizzled-3
+Adenosine triphosphate	 associated_with 	 DNA-directed RNA polymerase II subunit RPB4
+S-Adenosylmethionine	 associated_with 	 rRNA/tRNA 2'-O-methyltransferase fibrillarin-like protein 1
+Stearic acid	 associated_with 	 Group XIIA secretory phospholipase A2
+Calcium	 associated_with 	 Glutamate receptor 2
+D-Mannose	 associated_with 	 Nitric oxide synthase, brain
+LysoPC(20:4(8Z,11Z,14Z,17Z)/0:0)	 associated_with 	 Group 10 secretory phospholipase A2
+SM(d18:1/18:1(9Z))	 associated_with 	 Sphingomyelin phosphodiesterase 4
+Adenosine triphosphate	 associated_with 	 V-type proton ATPase subunit E 2
+Calcium	 associated_with 	 Two pore calcium channel protein 1
+L-Proline	 associated_with 	 Egl nine homolog 2
+ADP	 associated_with 	 Probable ATP-dependent RNA helicase DDX4
+Guanosine triphosphate	 associated_with 	 Serine/threonine-protein kinase PAK 4
+Uridine	 associated_with 	 Putative tRNA pseudouridine synthase Pus10
+Water	 associated_with 	 Protein-arginine deiminase type-3
+SM(d18:0/14:1(9Z)(OH))	 associated_with 	 Non-lysosomal glucosylceramidase
+Pyridoxal 5'-phosphate	 associated_with 	 Aspartate aminotransferase, cytoplasmic
+Water	 associated_with 	 Monoacylglycerol lipase ABHD6
+SM(d18:0/16:1(9Z))	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit C
+Adenosine triphosphate	 associated_with 	 V-type proton ATPase subunit B, brain isoform
+Oxoglutaric acid	 associated_with 	 Tyrosine aminotransferase
+Calcium	 associated_with 	 Transient receptor potential cation channel subfamily M member 7
+Theobromine	 associated_with 	 Adenosine receptor A1
+SM(d18:1/18:1(11Z))	 associated_with 	 T-cell surface glycoprotein CD1c
+Stearic acid	 associated_with 	 Aspartoacylase
+Uridine	 associated_with 	 Probable DNA dC->dU-editing enzyme APOBEC-3D
+Guanosine triphosphate	 associated_with 	 Phosphatidylinositol 3,4,5-trisphosphate-dependent Rac exchanger 1 protein
+Guanosine diphosphate	 associated_with 	 Phosphatidylinositol 3,4,5-trisphosphate-dependent Rac exchanger 2 protein
+SM(d18:1/18:0)	 associated_with 	 GPI mannosyltransferase 1
+L-Carnitine	 associated_with 	 Carnitine O-palmitoyltransferase 1, liver isoform
+Calcium	 associated_with 	 Calretinin
+Adenosine monophosphate	 associated_with 	 Soluble calcium-activated nucleotidase 1
+Calcium	 associated_with 	 Dual specificity protein phosphatase 15
+Molybdenum	 associated_with 	 MOSC domain-containing protein 1, mitochondrial
+ADP	 associated_with 	 ATP synthase subunit f, mitochondrial
+Sodium	 associated_with 	 Neutral amino acid transporter A
+SM(d18:1/26:0)	 associated_with 	 Ganglioside GM2 activator
+ADP	 associated_with 	 MAP/microtubule affinity-regulating kinase 4
+SM(d18:1/26:1(17Z))	 associated_with 	 GPI-anchor transamidase
+Riboflavin	 associated_with 	 Lysosomal acid phosphatase
+ADP	 associated_with 	 Serine/threonine-protein kinase DCLK2
+ADP	 associated_with 	 Serine/threonine-protein kinase pim-3
+Calcium	 associated_with 	 Pyroglutamylated RFamide peptide receptor
+Calcium	 associated_with 	 Protein S100-A4
+Adenosine triphosphate	 associated_with 	 Activating signal cointegrator 1 complex subunit 3
+Calcium	 associated_with 	 Protocadherin beta-3
+Water	 associated_with 	 Phosphatidate phosphatase LPIN2
+ADP	 associated_with 	 Ethanolamine kinase 2
+Calcium	 associated_with 	 Prostaglandin E2 receptor EP1 subtype
+ADP	 associated_with 	 Serine/threonine-protein kinase/endoribonuclease IRE2
+SM(d18:0/22:2(13Z,16Z)(OH))	 associated_with 	 Putative uncharacterized protein PLEKHA8
+Serotonin	 associated_with 	 Amine oxidase [flavin-containing] B
+Calcium	 associated_with 	 Protein phosphatase 1G
+Palmitic acid	 associated_with 	 Calcium-dependent phospholipase A2
+Bilirubin	 associated_with 	 UDP-glucuronosyltransferase 2B28
+Oxoglutaric acid	 associated_with 	 2-oxoglutarate dehydrogenase, mitochondrial
+Calcium	 associated_with 	 Pulmonary surfactant-associated protein A1
+Water	 associated_with 	 Ectonucleoside triphosphate diphosphohydrolase 8
+Water	 associated_with 	 Spastin
+Sodium	 associated_with 	 Solute carrier family 22 member 5
+Glycine	 associated_with 	 Glycine N-acyltransferase
+Calcium	 associated_with 	 Calcium-binding tyrosine phosphorylation-regulated protein
+Adenosine monophosphate	 associated_with 	 Phosphopantothenate--cysteine ligase
+Water	 associated_with 	 Glutathione peroxidase 1
+Sodium	 associated_with 	 Sodium leak channel non-selective protein
+Serotonin	 associated_with 	 5-hydroxytryptamine receptor 1D
+3-Sulfinoalanine	 associated_with 	 Cysteine sulfinic acid decarboxylase
+Water	 associated_with 	 DNA replication licensing factor MCM6
+Guanosine triphosphate	 associated_with 	 Rho guanine nucleotide exchange factor 3
+Dihydrouracil	 associated_with 	 Dihydropyrimidine dehydrogenase [NADP(+)]
+Ornithine	 associated_with 	 Mitochondrial ornithine transporter 2
+Water	 associated_with 	 UDP-glucuronosyltransferase 2A3
+Guanosine triphosphate	 associated_with 	 Mitochondrial Rho GTPase 1
+Adenosine triphosphate	 associated_with 	 Putative hexokinase HKDC1
+Water	 associated_with 	 Hydroxymethylglutaryl-CoA synthase, mitochondrial
+Adenosine triphosphate	 associated_with 	 Ubiquitin-protein ligase E3B
+SM(d18:0/16:1(9Z)(OH))	 associated_with 	 Protein PLEKHA9
+Water	 associated_with 	 Phosphatidate phosphatase LPIN1
+Adenosine triphosphate	 associated_with 	 Serine/threonine-protein kinase 6
+Water	 associated_with 	 Cancer-related nucleoside-triphosphatase
+Inosine	 associated_with 	 5'(3')-deoxyribonucleotidase, cytosolic type
+Isopropyl alcohol	 associated_with 	 Spliceosome RNA helicase DDX39B
+Oxoglutaric acid	 associated_with 	 Alanine--glyoxylate aminotransferase 2, mitochondrial
+Quetiapine	 associated_with 	 5-hydroxytryptamine receptor 2C
+Chloride ion	 associated_with 	 Potassium voltage-gated channel subfamily KQT member 1
+Caffeine	 associated_with 	 Cytochrome P450, family 1, subfamily A, polypeptide 1
+Caproic acid	 associated_with 	 Peroxisomal carnitine O-octanoyltransferase
+ADP	 associated_with 	 V-type proton ATPase subunit G 3
+Water	 associated_with 	 High affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A
+Taurine	 associated_with 	 Glutamate decarboxylase 2
+Adenosine triphosphate	 associated_with 	 Calcium/calmodulin-dependent protein kinase kinase 1
+Calcium	 associated_with 	 S-arrestin
+Water	 associated_with 	 Kynurenine--oxoglutarate transaminase 1
+Guanosine triphosphate	 associated_with 	 Differentially expressed in FDCP 6 homolog
+Guanosine triphosphate	 associated_with 	 Protein transport protein Sec16A
+S-Adenosylmethionine	 associated_with 	 Histone-lysine N-methyltransferase EHMT2
+Testosterone	 associated_with 	 Cytochrome P450 2E1
+Water	 associated_with 	 Phospholipase A2, membrane associated
+SM(d18:0/24:1(15Z)(OH))	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit Q
+Cyclic AMP	 associated_with 	 Solute carrier family 22 member 6
+D-Mannose	 associated_with 	 Cation-independent mannose-6-phosphate receptor
+Fe2+	 associated_with 	 Prolyl 3-hydroxylase 2
+Nitric oxide	 associated_with 	 Nitric oxide synthase, endothelial
+Adenosine triphosphate	 associated_with 	 Serine/threonine-protein kinase Nek2
+Magnesium	 associated_with 	 Activated CDC42 kinase 1
+Adenosine triphosphate	 associated_with 	 E3 ubiquitin-protein ligase MARCH1
+Serotonin	 associated_with 	 Serotonin N-acetyltransferase
+Bromide	 associated_with 	 Glutathione S-transferase omega-1
+Water	 associated_with 	 Phosphatidate phosphatase PPAPDC1A
+Water	 associated_with 	 Katanin p60 ATPase-containing subunit A1
+SM(d18:0/16:1(9Z))	 associated_with 	 Protein PLEKHA9
+Fe2+	 associated_with 	 Iron-sulfur cluster assembly 1 homolog, mitochondrial
+Water	 associated_with 	 Adenosine deaminase
+Adenosine triphosphate	 associated_with 	 TAO kinase 1 (TAO kinase 1, isoform CRA_a)
+S-Adenosylhomocysteine	 associated_with 	 Transmembrane O-methyltransferase
+Guanosine diphosphate	 associated_with 	 Alpha-1,3/1,6-mannosyltransferase ALG2
+Adenosine monophosphate	 associated_with 	 AMP deaminase 3
+Progesterone	 associated_with 	 Multidrug resistance protein 1
+Magnesium	 associated_with 	 Ectonucleoside triphosphate diphosphohydrolase 2
+Cadmium	 associated_with 	 Metallothionein-1L
+Cadmium	 associated_with 	 Metallothionein-1G
+2-Hydroxyglutarate	 associated_with 	 D-3-phosphoglycerate dehydrogenase
+ADP	 associated_with 	 Phosphatidylinositol 3-kinase catalytic subunit type 3
+Water	 associated_with 	 ATP synthase subunit epsilon, mitochondrial
+ADP	 associated_with 	 Mast/stem cell growth factor receptor
+2-Ketobutyric acid	 associated_with 	 Urocanate hydratase
+Xanthine	 associated_with 	 Purine nucleoside phosphorylase
+MG(0:0/20:4(5Z,8Z,11Z,14Z)/0:0)	 associated_with 	 2-acylglycerol O-acyltransferase 2
+S-Adenosylmethionine	 associated_with 	 N-acetylserotonin O-methyltransferase-like protein
+Adenosine monophosphate	 associated_with 	 E3 ubiquitin-protein ligase TRIM11
+Spermine	 associated_with 	 Ornithine decarboxylase
+Isovaleric acid	 associated_with 	 UDP-glucuronosyltransferase 1-1
+Progesterone	 associated_with 	 Steroid 21-hydroxylase
+ADP	 associated_with 	 Glycerate kinase
+Cyclic GMP	 associated_with 	 Guanylate cyclase soluble subunit alpha-3
+Adenosine triphosphate	 associated_with 	 Phosphorylase b kinase gamma catalytic chain, skeletal muscle isoform
+Adenosine triphosphate	 associated_with 	 Phosphatidylinositol 4-kinase alpha
+Magnesium	 associated_with 	 Microtubule-associated serine/threonine-protein kinase 3
+LysoPC(20:4(5Z,8Z,11Z,14Z)/0:0)	 associated_with 	 Platelet-activating factor acetylhydrolase 2, cytoplasmic
+Caproic acid	 associated_with 	 Acyl-coenzyme A synthetase ACSM2A, mitochondrial
+Fe2+	 associated_with 	 Dihydropyrimidine dehydrogenase [NADP(+)]
+Chloride ion	 associated_with 	 Excitatory amino acid transporter 5
+Water	 associated_with 	 tRNA-specific adenosine deaminase 1
+L-Proline	 associated_with 	 Pyrroline-5-carboxylate reductase 1, mitochondrial
+Water	 associated_with 	 Lysoplasmalogenase
+Zinc	 associated_with 	 Zinc finger protein 64 homolog, isoforms 1 and 2
+D-Mannose	 associated_with 	 Hexokinase-3
+Water	 associated_with 	 Carbonic anhydrase 6
+Inosinic acid	 associated_with 	 ENTPD4 protein
+Guanosine diphosphate	 associated_with 	 Elongation factor 1-alpha 2
+Chloride ion	 associated_with 	 NADPH oxidase 3
+L-Alanine	 associated_with 	 Alanine--tRNA ligase, mitochondrial
+Linoleic acid	 associated_with 	 Cytochrome P450 1B1
+Manganese	 associated_with 	 UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit
+Adenosine triphosphate	 associated_with 	 Serine/threonine-protein kinase ICK
+Pyridoxal 5'-phosphate	 associated_with 	 Serine palmitoyltransferase 2
+Guanosine triphosphate	 associated_with 	 GTP-binding protein REM 2
+Kynurenic acid	 associated_with 	 Kynurenine--oxoglutarate transaminase 3
+Oxytocin	 associated_with 	 Oxytocin receptor
+S-Adenosylhomocysteine	 associated_with 	 Acetylserotonin O-methyltransferase
+Calcium	 associated_with 	 Bestrophin-3
+SM(d18:0/22:2(13Z,16Z)(OH))	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit Y
+SM(d18:0/20:2(11Z,14Z))	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit Y
+Linoleic acid	 associated_with 	 Cytosolic acyl coenzyme A thioester hydrolase
+Adenosine triphosphate	 associated_with 	 E3 ubiquitin-protein ligase TRIM63
+Magnesium	 associated_with 	 Adenylate cyclase type 1
+Serotonin	 associated_with 	 Indoleamine 2,3-dioxygenase 1
+Water	 associated_with 	 Phospholipase D4
+Adenosine triphosphate	 associated_with 	 ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F
+ADP	 associated_with 	 Potassium-transporting ATPase subunit beta
+Adenosine triphosphate	 associated_with 	 Ephrin type-A receptor 2
+Spermidine	 associated_with 	 Spermidine synthase
+Calcium	 associated_with 	 Frizzled-5
+Acetaldehyde	 associated_with 	 6-pyruvoyl tetrahydrobiopterin synthase
+S-Adenosylmethionine	 associated_with 	 Leucine carboxyl methyltransferase 2
+Ammonia	 associated_with 	 Fatty-acid amide hydrolase 1
+Adenosine triphosphate	 associated_with 	 Helicase ARIP4
+Folic acid	 associated_with 	 Multidrug resistance-associated protein 4
+Glycerol	 associated_with 	 Aldo-keto reductase family 1 member B10
+Calcium	 associated_with 	 Guanylyl cyclase-activating protein 1
+Guanosine triphosphate	 associated_with 	 Mannose-1-phosphate guanyltransferase alpha
+Adenosine monophosphate	 associated_with 	 Manganese-dependent ADP-ribose/CDP-alcohol diphosphatase
+Adenosine	 associated_with 	 Adenosine receptor A1
+D-Mannose	 associated_with 	 Glycophorin-B
+Water	 associated_with 	 Cytochrome P450 11B2, mitochondrial
+Calcium	 associated_with 	 Chymotrypsin-like elastase family member 1
+Magnesium	 associated_with 	 UDP-GalNAc:beta-1,3-N-acetylgalactosaminyltransferase 1
+Guanosine triphosphate	 associated_with 	 Rab GTPase-binding effector protein 1
+Guanosine triphosphate	 associated_with 	 Abl interactor 1
+Cyclic AMP	 associated_with 	 Lysophosphatidic acid receptor 6
+Calcium	 associated_with 	 Glutamate [NMDA] receptor subunit epsilon-1
+Guanosine triphosphate	 associated_with 	 Ectonucleotide pyrophosphatase/phosphodiesterase family member 1
+Water	 associated_with 	 Neutral alpha-glucosidase AB
+Magnesium	 associated_with 	 Nicotinamide mononucleotide adenylyltransferase 1
+Adenosine monophosphate	 associated_with 	 Probable arginine--tRNA ligase, mitochondrial
+Adenosine triphosphate	 associated_with 	 Helicase POLQ-like
+Calcium	 associated_with 	 Lysophosphatidylcholine acyltransferase 1
+Oxoglutaric acid	 associated_with 	 Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial
+Adenosine triphosphate	 associated_with 	 STE20/SPS1-related proline-alanine-rich protein kinase
+SM(d18:0/24:1(15Z)(OH))	 associated_with 	 Glycolipid transfer protein domain-containing protein 1
+Guanosine triphosphate	 associated_with 	 Leucine-rich repeat serine/threonine-protein kinase 2
+Magnesium	 associated_with 	 Ribose-phosphate pyrophosphokinase 1
+3-Sulfinoalanine	 associated_with 	 Glutamate decarboxylase 2
+Stearic acid	 associated_with 	 Putative neutral ceramidase C
+Water	 associated_with 	 Inorganic pyrophosphatase 2, mitochondrial
+Stearic acid	 associated_with 	 Acyl-coenzyme A thioesterase 2, mitochondrial
+Water	 associated_with 	 Probable ATP-dependent RNA helicase DDX60
+Calcium	 associated_with 	 Calpain-11
+Arachidonic acid	 associated_with 	 Liver carboxylesterase 1
+Chloride ion	 associated_with 	 Chloride anion exchanger
+Water	 associated_with 	 Dual specificity protein phosphatase CDC14A
+Guanosine triphosphate	 associated_with 	 116 kDa U5 small nuclear ribonucleoprotein component
+Magnesium	 associated_with 	 Glutamate [NMDA] receptor subunit zeta-1
+Adenosine monophosphate	 associated_with 	 E3 ubiquitin-protein ligase MARCH2
+Copper	 associated_with 	 Lysyl oxidase homolog 4
+Adenosine triphosphate	 associated_with 	 Ephrin type-A receptor 3
+Cyclic AMP	 associated_with 	 Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B
+Progesterone	 associated_with 	 3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1
+Water	 associated_with 	 Acylpyruvase FAHD1, mitochondrial
+Bromide	 associated_with 	 Glutathione S-transferase theta-2B
+Adenosine monophosphate	 associated_with 	 RFWD2 protein
+Myristic acid	 associated_with 	 Acid ceramidase
+12,13-EpOME	 associated_with 	 Cytochrome P450 2A7
+D-Mannose	 associated_with 	 Prostaglandin G/H synthase 1
+Adenosine triphosphate	 associated_with 	 RAC-beta serine/threonine-protein kinase
+Magnesium	 associated_with 	 ATP-sensitive inward rectifier potassium channel 12
+Cortisol	 associated_with 	 Annexin A1
+Zinc	 associated_with 	 Alcohol dehydrogenase 1B
+Cadmium	 associated_with 	 Metallothionein-1H
+Guanosine triphosphate	 associated_with 	 G-protein-signaling modulator 1
+Melatonin	 associated_with 	 Cytochrome P450 1A2
+Calcium	 associated_with 	 Arachidonate 5-lipoxygenase
+ADP	 associated_with 	 Ephrin type-B receptor 6
+Calcium	 associated_with 	 Stromelysin-3
+Calcium	 associated_with 	 Group IID secretory phospholipase A2
+Guanosine diphosphate	 associated_with 	 Succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial
+Adenosine monophosphate	 associated_with 	 Cytosolic 5'-nucleotidase 1B
+Manganese	 associated_with 	 Protein phosphatase 1K, mitochondrial
+Imidazoleacetic acid	 associated_with 	 4-trimethylaminobutyraldehyde dehydrogenase
+ADP	 associated_with 	 AP2-associated protein kinase 1
+Water	 associated_with 	 Putative adenosylhomocysteinase 2
+Water	 associated_with 	 Sodium/potassium-transporting ATPase subunit alpha-1
+Ornithine	 associated_with 	 Ornithine decarboxylase
+Arachidonic acid	 associated_with 	 Cytochrome P450 3A7
+Caffeine	 associated_with 	 Cytochrome P450 2F1
+D-Mannose	 associated_with 	 Polypeptide N-acetylgalactosaminyltransferase 1
+Adenosine triphosphate	 associated_with 	 Acyl-coenzyme A synthetase ACSM6, mitochondrial
+Calcium	 associated_with 	 Parathyroid hormone
+Pyruvic acid	 associated_with 	 Monocarboxylate transporter 7
+Calcium	 associated_with 	 Annexin A3
+Adenosine triphosphate	 associated_with 	 Putative nucleoside diphosphate kinase
+L-Carnitine	 associated_with 	 Gamma-butyrobetaine dioxygenase
+Water	 associated_with 	 Ectonucleotide pyrophosphatase/phosphodiesterase family member 7
+SM(d18:0/20:2(11Z,14Z))	 associated_with 	 Phosphatidylcholine:ceramide cholinephosphotransferase 2
+Pyroglutamic acid	 associated_with 	 Gamma-glutamylaminecyclotransferase
+Glutathione	 associated_with 	 Microsomal glutathione S-transferase 2
+Calcium	 associated_with 	 Spectrin beta chain, brain 1
+Formic acid	 associated_with 	 Cytochrome P450 3A5
+ADP	 associated_with 	 Serine/threonine-protein kinase PRP4 homolog
+SM(d18:1/18:1(9Z))	 associated_with 	 Sphingomyelin phosphodiesterase 3
+Cortisol	 associated_with 	 Steroid 21-hydroxylase
+Myristic acid	 associated_with 	 Neuropathy target esterase
+Glycine	 associated_with 	 Glycine receptor subunit alpha-3
+SM(d18:1/24:0)	 associated_with 	 Phosphatidylinositol-glycan biosynthesis class F protein
+Adenosine triphosphate	 associated_with 	 TRAF2 and NCK interacting kinase (TRAF2 and NCK interacting kinase, isoform CRA_g)
+Caffeine	 associated_with 	 Adenosine receptor A1
+Thiamine pyrophosphate	 associated_with 	 Thiamine-triphosphatase
+Calcium	 associated_with 	 RAS guanyl-releasing protein 2
+Calcium	 associated_with 	 Immunoglobulin superfamily member 5
+Parathion	 associated_with 	 Cytochrome P450 2S1
+Calcium	 associated_with 	 CREB-regulated transcription coactivator 2
+Citric acid	 associated_with 	 ATP-citrate synthase
+Calcium	 associated_with 	 72 kDa type IV collagenase
+Citric acid	 associated_with 	 L-amino-acid oxidase
+Methylmalonic acid	 associated_with 	 Fatty aldehyde dehydrogenase
+Magnesium	 associated_with 	 Phosphoglucomutase-like protein 5
+Water	 associated_with 	 Probable ATP-dependent RNA helicase DDX6
+Chloride ion	 associated_with 	 Atrial natriuretic peptide receptor 3
+Water	 associated_with 	 Cytosolic 5'-nucleotidase 3
+Adenosine monophosphate	 associated_with 	 Peroxisomal NADH pyrophosphatase NUDT12
+Water	 associated_with 	 Dual specificity protein phosphatase 18
+Calcium	 associated_with 	 Fibulin-2
+Calcium	 associated_with 	 Calcium/calmodulin-dependent protein kinase type 1
+Adenosine monophosphate	 associated_with 	 Long-chain-fatty-acid--CoA ligase 4
+Adenosine triphosphate	 associated_with 	 Propionyl-CoA carboxylase alpha chain, mitochondrial
+Calcium	 associated_with 	 Protein phosphatase 1E
+Calcium	 associated_with 	 Parvalbumin alpha
+SM(d18:1/24:1(15Z))	 associated_with 	 Glycolipid transfer protein domain-containing protein 2
+Calcium	 associated_with 	 Kv channel-interacting protein 4
+Malic acid	 associated_with 	 Malate dehydrogenase, cytoplasmic
+SM(d18:1/18:1(9Z))	 associated_with 	 Proactivator polypeptide
+Magnesium	 associated_with 	 DNA-directed DNA/RNA polymerase mu
+ADP	 associated_with 	 Probable ATP-dependent RNA helicase DDX59
+ADP	 associated_with 	 TAOK2 protein
+L-Arginine	 associated_with 	 Arginine decarboxylase
+Selenium	 associated_with 	 O-phosphoseryl-tRNA(Sec) selenium transferase
+Sodium	 associated_with 	 Tescalcin
+Succinic acid	 associated_with 	 Alkylated DNA repair protein alkB homolog 1
+Calcium	 associated_with 	 Chemokine XC receptor 1
+Bilirubin	 associated_with 	 Alpha-fetoprotein
+Water	 associated_with 	 Guanine deaminase
+Calcium	 associated_with 	 Calmegin
+Acetoacetic acid	 associated_with 	 Succinyl-CoA:3-ketoacid coenzyme A transferase 2, mitochondrial
+Water	 associated_with 	 Beta-glucuronidase
+Pantothenic acid	 associated_with 	 Vascular non-inflammatory molecule 3
+Calcium	 associated_with 	 Protocadherin beta-8
+Water	 associated_with 	 Lipid phosphate phosphatase-related protein type 3
+Adenosine triphosphate	 associated_with 	 Ubiquitin-conjugating enzyme E2 E2
+Sodium	 associated_with 	 Sodium-dependent serotonin transporter
+Guanosine triphosphate	 associated_with 	 Guanine nucleotide binding protein (G protein), beta polypeptide 1
+Magnesium	 associated_with 	 Adenylate cyclase type 6
+L-Cysteine	 associated_with 	 Aminopeptidase N
+Water	 associated_with 	 Hydroxyacyl-thioester dehydratase type 2, mitochondrial
+Palmitic acid	 associated_with 	 Acyl-protein thioesterase 1
+Glyceric acid	 associated_with 	 Alpha-aminoadipic semialdehyde dehydrogenase
+L-Glutamic acid	 associated_with 	 Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial
+D-Galactose	 associated_with 	 N-acetylgalactosamine-6-sulfatase
+Sodium	 associated_with 	 Excitatory amino acid transporter 2
+Calcium	 associated_with 	 Serine/threonine-protein kinase 38-like
+L-Histidine	 associated_with 	 Histidine ammonia-lyase
+ADP	 associated_with 	 G protein-coupled receptor kinase 7
+Norepinephrine	 associated_with 	 Phenylethanolamine N-methyltransferase
+Magnesium	 associated_with 	 Protein phosphatase 1M
+Adenosine triphosphate	 associated_with 	 Serine/threonine-protein kinase PRKY
+Water	 associated_with 	 Dual specificity protein phosphatase 13
+Adenosine triphosphate	 associated_with 	 Ubiquitin-conjugating enzyme E2Q-like protein 1
+Guanosine triphosphate	 associated_with 	 FYVE, RhoGEF and PH domain-containing protein 2
+SM(d18:1/26:0)	 associated_with 	 T-cell surface glycoprotein CD1c
+SM(d18:0/16:1(9Z)(OH))	 associated_with 	 Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1
+Adenosine triphosphate	 associated_with 	 ATP-dependent RNA helicase DQX1
+Magnesium	 associated_with 	 Serine/threonine-protein kinase MARK1
+Adenosine monophosphate	 associated_with 	 Phenylalanine--tRNA ligase alpha subunit
+Guanosine triphosphate	 associated_with 	 Rab GTPase-binding effector protein 2
+Guanosine triphosphate	 associated_with 	 Rap guanine nucleotide exchange factor-like 1
+Calcium	 associated_with 	 Transient receptor potential cation channel subfamily V member 4
+Pyridoxal 5'-phosphate	 associated_with 	 Aminoadipate aminotransferase, isoform CRA_b
+Guanosine diphosphate	 associated_with 	 Guanine nucleotide-binding protein subunit beta-5
+Adenosine triphosphate	 associated_with 	 Phosphatidylinositol-5-phosphate 4-kinase type-2 alpha
+Oxoglutaric acid	 associated_with 	 Alanine aminotransferase 2
+Manganese	 associated_with 	 Protein phosphatase 1M
+ADP	 associated_with 	 Ephrin type-A receptor 5
+Acetaldehyde	 associated_with 	 Ethanolamine-phosphate phospho-lyase
+SM(d18:1/24:0)	 associated_with 	 GPI mannosyltransferase 2
+Adenosine triphosphate	 associated_with 	 Myosin light chain kinase 2, skeletal/cardiac muscle
+Water	 associated_with 	 Lathosterol oxidase
+Calcium	 associated_with 	 Lysophosphatidic acid receptor 4
+Folic acid	 associated_with 	 Canalicular multispecific organic anion transporter 2
+S-Adenosylmethionine	 associated_with 	 DNA (cytosine-5)-methyltransferase 3-like
+9,10-Epoxyoctadecenoic acid	 associated_with 	 Cytochrome P450 2A7
+Ethanol	 associated_with 	 Alcohol dehydrogenase 1C
+Water	 associated_with 	 Alpha-enolase
+Palmitic acid	 associated_with 	 Alkaline ceramidase 2
+LysoPC(20:4(5Z,8Z,11Z,14Z)/0:0)	 associated_with 	 Cytosolic phospholipase A2
+ADP	 associated_with 	 Putative pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15
+D-Glucose	 associated_with 	 Lactase-phlorizin hydrolase
+Chloride ion	 associated_with 	 Angiotensin-converting enzyme 2
+LysoPC(20:4(8Z,11Z,14Z,17Z)/0:0)	 associated_with 	 Lysophospholipid acyltransferase 5
+Androstenedione	 associated_with 	 Polyprenol reductase
+Calcium	 associated_with 	 Protein S100-Z
+Cyclic AMP	 associated_with 	 cAMP-dependent protein kinase catalytic subunit alpha
+Formic acid	 associated_with 	 Cytochrome P450 3A4
+Formic acid	 associated_with 	 Cytochrome P450, family 1, subfamily A, polypeptide 1
+Hyaluronic acid	 associated_with 	 Stabilin-1
+Adenosine triphosphate	 associated_with 	 Multiple substrate lipid kinase, isoform CRA_a
+Thymidine	 associated_with 	 Thymidine kinase 2, mitochondrial
+Guanosine diphosphate	 associated_with 	 Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-5
+D-Alanine	 associated_with 	 D-amino-acid oxidase
+Cytidine	 associated_with 	 Cytosolic 5'-nucleotidase 1A
+Water	 associated_with 	 Receptor-type tyrosine-protein phosphatase alpha
+Water	 associated_with 	 Membrane primary amine oxidase
+L-Glutamine	 associated_with 	 Sodium-coupled neutral amino acid transporter 3
+S-Adenosylmethionine	 associated_with 	 Methionine adenosyltransferase 2 subunit beta
+Cyclic AMP	 associated_with 	 Adenylate cyclase type 5
+Copper	 associated_with 	 SPARC
+Adenosine monophosphate	 associated_with 	 Probable asparagine--tRNA ligase, mitochondrial
+Calcium	 associated_with 	 Protein S100-P
+Myristic acid	 associated_with 	 Cytosolic phospholipase A2 epsilon
+Copper	 associated_with 	 Tyrosinase
+Sodium	 associated_with 	 Sodium-dependent phosphate transport protein 1
+Progesterone	 associated_with 	 Cytochrome P450 3A4
+Water	 associated_with 	 UDP-glucose 6-dehydrogenase
+Water	 associated_with 	 Probable phospholipid-transporting ATPase IIB
+Estradiol	 associated_with 	 UDP-glucuronosyltransferase 2B28
+Adenosine triphosphate	 associated_with 	 Testis-specific serine/threonine-protein kinase 6
+Palmitic acid	 associated_with 	 Peroxisome proliferative activated receptor gamma isoform 2 variant
+SM(d18:1/24:0)	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit H
+myo-Inositol	 associated_with 	 Inositol monophosphatase 2
+Ammonia	 associated_with 	 Probable DNA dC->dU-editing enzyme APOBEC-3A
+Magnesium	 associated_with 	 Long-chain-fatty-acid--CoA ligase 6
+Sodium	 associated_with 	 Sodium-coupled neutral amino acid transporter 2
+Water	 associated_with 	 DNA helicase MCM8
+Pyridoxal 5'-phosphate	 associated_with 	 GAD1 protein
+Water	 associated_with 	 6-pyruvoyl tetrahydrobiopterin synthase
+Hypoxanthine	 associated_with 	 Xanthine dehydrogenase/oxidase
+SM(d18:1/18:0)	 associated_with 	 GPI mannosyltransferase 4
+SM(d18:1/24:0)	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit Y
+Chloride ion	 associated_with 	 Alpha-amylase 1
+Spermidine	 associated_with 	 Augmented expression in SLE 3
+Adenosine triphosphate	 associated_with 	 Carbamoyl-phosphate synthase [ammonia], mitochondrial
+Calcium	 associated_with 	 Protocadherin gamma-C3
+Adenosine triphosphate	 associated_with 	 E3 ubiquitin-protein ligase UBR5
+Adenosine triphosphate	 associated_with 	 Cell division protein kinase 19
+Deoxyuridine	 associated_with 	 Thymidine kinase
+Adenosine monophosphate	 associated_with 	 Hypoxanthine-guanine phosphoribosyltransferase
+SM(d18:1/16:0)	 associated_with 	 Sphingomyelin phosphodiesterase
+Hydrogen carbonate	 associated_with 	 Acetyl-CoA carboxylase 1
+Water	 associated_with 	 Putative uncharacterized protein DKFZp686B0215
+Water	 associated_with 	 PH domain leucine-rich repeat-containing protein phosphatase 2
+Histamine	 associated_with 	 Zinc finger protein 219
+Water	 associated_with 	 Glutathione S-transferase A2
+Fe2+	 associated_with 	 NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial
+Ammonia	 associated_with 	 AMP deaminase 2
+Androstenedione	 associated_with 	 HSD17B3 protein
+Water	 associated_with 	 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2
+L-Tryptophan	 associated_with 	 Monocarboxylate transporter 10
+ADP	 associated_with 	 Receptor-interacting serine/threonine-protein kinase 3
+ADP	 associated_with 	 V-akt murine thymoma viral oncogene homolog 1
+Cyclic AMP	 associated_with 	 cAMP-specific 3',5'-cyclic phosphodiesterase 4C
+SM(d18:1/18:1(9Z))	 associated_with 	 Phosphatidylinositol glycan anchor biosynthesis class U protein
+Thiamine pyrophosphate	 associated_with 	 Acetolactate synthase-like protein
+Sodium	 associated_with 	 P3 protein
+Phosphorylcholine	 associated_with 	 Choline-phosphate cytidylyltransferase A
+Palmitic acid	 associated_with 	 Cytosolic phospholipase A2 epsilon
+Dodecanoic acid	 associated_with 	 Lactotransferrin
+ADP	 associated_with 	 N-acetylaspartyl-glutamate synthetase A
+Adenosine triphosphate	 associated_with 	 Cyclin-G-associated kinase
+Hypoxanthine	 associated_with 	 Equilibrative nucleoside transporter 2
+Calcium	 associated_with 	 Programmed cell death protein 6
+Calcium	 associated_with 	 Cadherin-6
+L-Glutamic acid	 associated_with 	 Probable glutamate--tRNA ligase, mitochondrial
+L-Histidine	 associated_with 	 Methyltransferase-like protein 2B
+Magnesium	 associated_with 	 NUAK family SNF1-like kinase 1
+ADP	 associated_with 	 Non-receptor tyrosine-protein kinase TYK2
+Adenosine monophosphate	 associated_with 	 Acyl-CoA synthetase short-chain family member 3, mitochondrial
+Calcium	 associated_with 	 Myosin light polypeptide 6
+D-Fructose	 associated_with 	 14 kDa phosphohistidine phosphatase
+Water	 associated_with 	 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1
+Nickel	 associated_with 	 1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase
+Calcium	 associated_with 	 C-C motif chemokine 28
+Water	 associated_with 	 Bile acid-CoA:amino acid N-acyltransferase
+Magnesium	 associated_with 	 Cholinephosphotransferase 1
+Chloride ion	 associated_with 	 Gamma-aminobutyric acid receptor subunit gamma-3
+Water	 associated_with 	 Dihydropyrimidinase
+Guanosine triphosphate	 associated_with 	 Ribosome maturation protein SBDS
+SM(d18:1/18:0)	 associated_with 	 Sphingomyelin phosphodiesterase 4
+Magnesium	 associated_with 	 3'(2'),5'-bisphosphate nucleotidase 1
+ADP	 associated_with 	 Serum paraoxonase/lactonase 3
+Chloride ion	 associated_with 	 Chloride intracellular channel protein 3
+N-Acetylneuraminic acid	 associated_with 	 Sialic acid synthase
+Calcium	 associated_with 	 Calcium-binding mitochondrial carrier protein Aralar1
+Adenosine triphosphate	 associated_with 	 Mitogen-activated protein kinase kinase kinase kinase 5
+Guanosine triphosphate	 associated_with 	 Importin subunit alpha-2
+Guanosine diphosphate	 associated_with 	 G-protein-signaling modulator 1
+Guanosine triphosphate	 associated_with 	 Son of sevenless homolog 2
+Water	 associated_with 	 Glutaminase liver isoform, mitochondrial
+Cysteinylglycine	 associated_with 	 Gamma-glutamyltranspeptidase 1
+Water	 associated_with 	 ATP-dependent DNA helicase Q5
+Cyclic AMP	 associated_with 	 A-kinase anchor protein 7 isoform gamma
+Calcium	 associated_with 	 Lactoperoxidase
+Magnesium	 associated_with 	 Long-chain-fatty-acid--CoA ligase 4
+Testosterone	 associated_with 	 Cytochrome P450 1B1
+Myristic acid	 associated_with 	 ADFP protein
+SM(d18:1/18:1(11Z))	 associated_with 	 GPI transamidase component PIG-T
+Guanosine triphosphate	 associated_with 	 GTPase IMAP family member 5
+Epinephrine	 associated_with 	 Phenylalanine-4-hydroxylase
+Water	 associated_with 	 Glycerophosphodiester phosphodiesterase 1
+Calcium	 associated_with 	 Copine-9
+Zinc	 associated_with 	 Alcohol dehydrogenase 1A
+Formic acid	 associated_with 	 Cytochrome P450 2C8
+ADP	 associated_with 	 Probable ATP-dependent RNA helicase DHX58
+Calcium	 associated_with 	 Klotho
+Glyceric acid	 associated_with 	 Aldehyde dehydrogenase family 1 member A3
+Sodium	 associated_with 	 Sodium-dependent proline transporter
+L-Leucine	 associated_with 	 Leucine carboxyl methyltransferase 1
+ADP	 associated_with 	 Mitogen-activated protein kinase kinase kinase 2
+Tetrahydrobiopterin	 associated_with 	 Nitric oxide synthase, inducible
+Phosphorylcholine	 associated_with 	 Sphingomyelin phosphodiesterase 3
+L-Aspartic acid	 associated_with 	 L-amino-acid oxidase
+Sodium	 associated_with 	 Sodium channel subunit beta-2
+Arachidonic acid	 associated_with 	 Group 10 secretory phospholipase A2
+LysoPC(P-18:0/0:0)	 associated_with 	 Lysophospholipid acyltransferase 5
+Cobalt	 associated_with 	 S-adenosylmethionine synthase isoform type-1
+Magnesium	 associated_with 	 Serine/threonine-protein kinase Nek11
+Guanosine triphosphate	 associated_with 	 Ras-related C3 botulinum toxin substrate 3
+Water	 associated_with 	 Sialidase-4
+Zinc	 associated_with 	 Zinc finger protein 64 homolog, isoforms 3 and 4
+Magnesium	 associated_with 	 Mitogen-activated protein kinase kinase kinase kinase 1
+Magnesium	 associated_with 	 Sulfiredoxin-1
+Adenosine monophosphate	 associated_with 	 Adenosine kinase
+Guanosine diphosphate	 associated_with 	 Ectonucleoside triphosphate diphosphohydrolase 3
+Glutathione	 associated_with 	 Glutathione peroxidase 2
+Water	 associated_with 	 Peptidyl-tRNA hydrolase ICT1, mitochondrial
+ADP	 associated_with 	 ATP synthase subunit O, mitochondrial
+SM(d18:1/18:1(11Z))	 associated_with 	 Putative uncharacterized protein PLEKHA8
+Arachidonic acid	 associated_with 	 ADFP protein
+Spermidine	 associated_with 	 Spermine synthase
+Adenosine monophosphate	 associated_with 	 cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A
+Water	 associated_with 	 ATP-dependent RNA helicase DDX55
+Estradiol	 associated_with 	 Cytochrome P450, family 1, subfamily A, polypeptide 1
+L-Lactic acid	 associated_with 	 L-lactate dehydrogenase A-like 6B
+Water	 associated_with 	 Cytochrome P450 2U1
+ADP	 associated_with 	 ATP-dependent RNA helicase DDX50
+Magnesium	 associated_with 	 Calcium-transporting ATPase type 2C member 1
+Water	 associated_with 	 Endothelial lipase
+ADP	 associated_with 	 Protein kinase C iota type
+ADP	 associated_with 	 Pantothenate kinase 2, mitochondrial
+Uridine	 associated_with 	 Probable DNA dC->dU-editing enzyme APOBEC-3B
+ADP	 associated_with 	 Myosin light chain kinase 2, skeletal/cardiac muscle
+L-Glutamic acid	 associated_with 	 Aspartate aminotransferase
+Citrulline	 associated_with 	 Nitric oxide synthase, endothelial
+Water	 associated_with 	 Cytochrome P450 2D6
+Calcium	 associated_with 	 Group IIE secretory phospholipase A2
+ADP	 associated_with 	 Dual specificity mitogen-activated protein kinase kinase 7
+Water	 associated_with 	 Bis(5'-nucleosyl)-tetraphosphatase [asymmetrical]
+ADP	 associated_with 	 Nicotinamide riboside kinase 1
+Water	 associated_with 	 Ubiquitin carboxyl-terminal hydrolase 30
+S-Adenosylmethionine	 associated_with 	 Mitochondrial tRNA-specific 2-thiouridylase 1
+Chloride ion	 associated_with 	 Gamma-aminobutyric acid receptor subunit beta-2
+Selenium	 associated_with 	 Selenoprotein M
+Sodium	 associated_with 	 Tenascin-R
+L-Asparagine	 associated_with 	 Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit
+Isopropyl alcohol	 associated_with 	 Alcohol dehydrogenase 4
+Thymine	 associated_with 	 Thymidine phosphorylase
+Histamine	 associated_with 	 Histamine H1 receptor
+Cyclic AMP	 associated_with 	 Adenylate cyclase type 3
+Magnesium	 associated_with 	 Serine/threonine-protein kinase Chk2
+L-Tyrosine	 associated_with 	 Monocarboxylate transporter 10
+Linoleic acid	 associated_with 	 Acyl-coenzyme A thioesterase 2, mitochondrial
+3-Methylhistidine	 associated_with 	 Carnosine synthase 1
+Asymmetric dimethylarginine	 associated_with 	 Nitric oxide synthase, endothelial
+D-Mannose	 associated_with 	 Putative hexokinase HKDC1
+ADP	 associated_with 	 ADP-ribosyl cyclase 1
+S-Adenosylhomocysteine	 associated_with 	 Histone-lysine N-methyltransferase EHMT1
+Cyclic AMP	 associated_with 	 ATP-binding cassette sub-family C member 11
+Dihydrobiopterin	 associated_with 	 Dihydrofolate reductase
+alpha-Tocopherol	 associated_with 	 Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform
+11,12-Epoxyeicosatrienoic acid	 associated_with 	 Cytochrome P450 19A1
+Guanosine triphosphate	 associated_with 	 Breakpoint cluster region protein
+Calcium	 associated_with 	 F-box only protein 43
+Guanosine diphosphate	 associated_with 	 Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2
+Pregnenolone	 associated_with 	 Sulfotransferase family cytosolic 2B member 1
+Water	 associated_with 	 Cytochrome P450 2S1
+Adenosine triphosphate	 associated_with 	 Ketohexokinase
+SM(d18:0/20:2(11Z,14Z))	 associated_with 	 Phosphatidylinositol-glycan biosynthesis class W protein
+Guanosine diphosphate	 associated_with 	 Guanine nucleotide exchange factor VAV2
+Water	 associated_with 	 UDP-glucuronosyltransferase 1-3
+Ammonia	 associated_with 	 AMP deaminase 3
+Calcium	 associated_with 	 Membrane-associated phosphatidylinositol transfer protein 2
+Leukotriene B4	 associated_with 	 Leukotriene B4 receptor 2
+Adenosine triphosphate	 associated_with 	 U4/U6 small nuclear ribonucleoprotein Prp4
+SM(d18:1/16:0)	 associated_with 	 T-cell surface glycoprotein CD1e, membrane-associated
+3,4-Dihydroxyphenylglycol	 associated_with 	 Alcohol dehydrogenase 1C
+D-Galactose	 associated_with 	 Lactase-phlorizin hydrolase
+L-Threonine	 associated_with 	 Probable threonine--tRNA ligase 2, cytoplasmic
+Guanosine triphosphate	 associated_with 	 Putative tubulin beta chain-like protein ENSP00000290377
+Adenosine monophosphate	 associated_with 	 Ubiquitin-conjugating enzyme E2 L3
+ADP	 associated_with 	 Serine/threonine-protein kinase Chk1
+Manganese	 associated_with 	 Acyl-coenzyme A synthetase ACSM2A, mitochondrial
+SM(d18:1/18:0)	 associated_with 	 Putative uncharacterized protein DKFZp434L0435
+S-Adenosylhomocysteine	 associated_with 	 Histone-lysine N-methyltransferase SETD2
+Adenosine triphosphate	 associated_with 	 Adenylate cyclase type 4
+D-Mannose	 associated_with 	 Glucokinase
+Magnesium	 associated_with 	 Serine/threonine-protein kinase haspin
+Adenosine triphosphate	 associated_with 	 Cell division protein kinase 13
+Water	 associated_with 	 Alkylglycerol monooxygenase
+Propionic acid	 associated_with 	 Acetyl-coenzyme A synthetase, cytoplasmic
+Androstenedione	 associated_with 	 3-oxo-5-alpha-steroid 4-dehydrogenase 1
+Water	 associated_with 	 Catalase
+Adenosine triphosphate	 associated_with 	 Phosphatidylinositol-4-phosphate 3-kinase C2 domain-containing subunit alpha
+Ammonia	 associated_with 	 Histidine ammonia-lyase
+Water	 associated_with 	 Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta
+Adenosine triphosphate	 associated_with 	 Dual specificity tyrosine-phosphorylation-regulated kinase 1B
+Cyclic AMP	 associated_with 	 Prostaglandin D2 receptor
+Calcium	 associated_with 	 Ectonucleoside triphosphate diphosphohydrolase 2
+L-Alanine	 associated_with 	 Peptidoglycan recognition protein 3
+Ascorbic acid	 associated_with 	 Solute carrier family 23 member 3
+SM(d18:0/20:2(11Z,14Z))	 associated_with 	 Ectonucleotide pyrophosphatase/phosphodiesterase family member 7
+Histamine	 associated_with 	 Synaptic vesicular amine transporter
+11,12-Epoxyeicosatrienoic acid	 associated_with 	 Cytochrome P450 2C9
+Calcium	 associated_with 	 C-type lectin domain family 5 member A
+Water	 associated_with 	 Protein-arginine deiminase type-6
+Calcium	 associated_with 	 Mannosyl-oligosaccharide 1,2-alpha-mannosidase IB
+Thiamine	 associated_with 	 Thiamine transporter 1
+Calcium	 associated_with 	 Dentin sialophosphoprotein
+Guanosine diphosphate	 associated_with 	 Ras-related protein Rab-5A
+SM(d18:0/22:2(13Z,16Z)(OH))	 associated_with 	 Glycolipid transfer protein domain-containing protein 2
+Ammonia	 associated_with 	 Amiloride-sensitive amine oxidase [copper-containing]
+Sodium	 associated_with 	 Sodium- and chloride-dependent glycine transporter 1
+Guanosine triphosphate	 associated_with 	 Exportin-1
+Magnesium	 associated_with 	 Serine/threonine-protein kinase 32A
+L-Kynurenine	 associated_with 	 Kynurenine formamidase
+ADP	 associated_with 	 Serine/threonine-protein kinase Chk2
+Hydrogen carbonate	 associated_with 	 Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial
+Adenosine monophosphate	 associated_with 	 E3 ubiquitin-protein ligase RNF8
+SM(d18:0/22:1(13Z)(OH))	 associated_with 	 Sphingomyelin phosphodiesterase
+S-Adenosylmethionine	 associated_with 	 HemK methyltransferase family member 1
+SM(d18:1/18:1(11Z))	 associated_with 	 Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase
+Adenosine triphosphate	 associated_with 	 Ribosomal protein S6 kinase alpha-4
+ADP	 associated_with 	 Serine/threonine-protein kinase N3
+Acetoacetic acid	 associated_with 	 Acetoacetyl-CoA synthetase
+Water	 associated_with 	 Cytosol aminopeptidase
+Adenosine triphosphate	 associated_with 	 Ubiquitin-conjugating enzyme E2 D3
+Adenosine triphosphate	 associated_with 	 Methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase
+Chloride ion	 associated_with 	 Potassium channel subfamily T member 2
+SM(d18:0/24:1(15Z)(OH))	 associated_with 	 Antigen-presenting glycoprotein CD1d
+Water	 associated_with 	 Group IIE secretory phospholipase A2
+ADP	 associated_with 	 Serine/threonine-protein kinase Nek5
+Imidazoleacetic acid	 associated_with 	 Aldehyde dehydrogenase X, mitochondrial
+ADP	 associated_with 	 Calcium/calmodulin-dependent protein kinase type IV
+Water	 associated_with 	 Dual specificity protein phosphatase 12
+Calcium	 associated_with 	 Glucosamine-6-phosphate isomerase 1
+Guanosine diphosphate	 associated_with 	 Ras guanyl-releasing protein 3
+L-Lactic acid	 associated_with 	 L-lactate dehydrogenase A chain
+Manganese	 associated_with 	 Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform
+Manganese	 associated_with 	 Acetyl-CoA carboxylase 2
+Adenosine triphosphate	 associated_with 	 DNA-directed RNA polymerase
+ADP	 associated_with 	 Putative ATP-dependent RNA helicase DDX12
+Adenosine triphosphate	 associated_with 	 NUAK family SNF1-like kinase 2
+Potassium	 associated_with 	 Potassium voltage-gated channel subfamily A member 1
+Estradiol	 associated_with 	 UDP-glucuronosyltransferase 2B4
+Manganese	 associated_with 	 Nucleoside diphosphate-linked moiety X motif 8, mitochondrial
+Adenosine triphosphate	 associated_with 	 Phosphoglycerate kinase 2
+L-Arginine	 associated_with 	 Nitric oxide synthase, brain
+Calcium	 associated_with 	 Annexin A8-like protein 2
+ADP	 associated_with 	 Vascular endothelial growth factor receptor 1
+Inosinic acid	 associated_with 	 Ectonucleoside triphosphate diphosphohydrolase 4
+Deoxyuridine	 associated_with 	 Thymidine phosphorylase
+Chloride ion	 associated_with 	 Glycine receptor subunit alpha-2
+Manganese	 associated_with 	 Probable polypeptide N-acetylgalactosaminyltransferase 8
+Calcium	 associated_with 	 Voltage-dependent calcium channel gamma-8 subunit
+L-Cysteine	 associated_with 	 Phosphopantothenate--cysteine ligase
+Ethanol	 associated_with 	 Equilibrative nucleoside transporter 1
+Taurine	 associated_with 	 GGT7 protein
+Chloride ion	 associated_with 	 Chloride channel protein ClC-Ka
+ADP	 associated_with 	 Tyrosine-protein kinase receptor TYRO3
+ADP	 associated_with 	 Serine/threonine-protein kinase PAK 4
+ADP	 associated_with 	 CSNK1A1 protein
+Water	 associated_with 	 Ubiquinone biosynthesis monooxygenase COQ6
+S-Adenosylhomocysteine	 associated_with 	 Ribosomal RNA small subunit methyltransferase NEP1
+Pyruvic acid	 associated_with 	 Dihydrolipoyl dehydrogenase, mitochondrial
+Sodium	 associated_with 	 Sodium- and chloride-dependent creatine transporter 1
+Adenosine triphosphate	 associated_with 	 Sphingosine kinase 1
+L-Aspartic acid	 associated_with 	 Aminoacylase-1
+Arachidonic acid	 associated_with 	 Group 3 secretory phospholipase A2
+p-Hydroxyphenylacetic acid	 associated_with 	 Aldehyde dehydrogenase family 1 member A3
+Guanosine triphosphate	 associated_with 	 Rho guanine nucleotide exchange factor 12
+Water	 associated_with 	 ATP-dependent RNA helicase DDX3X
+Fe2+	 associated_with 	 Natural resistance-associated macrophage protein 1
+Magnesium	 associated_with 	 Sarcoplasmic/endoplasmic reticulum calcium ATPase 2
+Calcium	 associated_with 	 Tenascin-R
+Linoleic acid	 associated_with 	 Cytochrome P450 4Z1
+SM(d18:0/24:1(15Z)(OH))	 associated_with 	 Glycosylphosphatidylinositol anchor attachment 1 protein
+Adenosine triphosphate	 associated_with 	 ATP-dependent RNA helicase DHX8
+Inosine	 associated_with 	 Cytosolic 5'-nucleotidase 1A
+Oxidized glutathione	 associated_with 	 Glutathione peroxidase 2
+SM(d18:1/24:1(15Z))	 associated_with 	 GPI ethanolamine phosphate transferase 2
+SM(d18:1/16:0)	 associated_with 	 GPI mannosyltransferase 1
+9,10-Epoxyoctadecenoic acid	 associated_with 	 Cytochrome P450 2A13
+SM(d18:1/26:1(17Z))	 associated_with 	 Pleckstrin homology domain-containing family A member 8
+Guanosine triphosphate	 associated_with 	 Rab11 family-interacting protein 2
+Ethanol	 associated_with 	 5-hydroxytryptamine receptor 3D
+Parathion	 associated_with 	 Cytochrome P450 2A7
+Riboflavin	 associated_with 	 Solute carrier family 52, riboflavin transporter, member 1
+14,15-Epoxy-5,8,11-eicosatrienoic acid	 associated_with 	 Cytochrome P450 2C19
+Adenosine triphosphate	 associated_with 	 DNA-directed RNA polymerase III subunit RPC1
+Calcium	 associated_with 	 Annexin A5
+ADP	 associated_with 	 Probable ATP-dependent RNA helicase DDX56
+SM(d18:1/26:1(17Z))	 associated_with 	 Phosphatidylinositol glycan anchor biosynthesis class U protein
+LysoPC(P-18:0/0:0)	 associated_with 	 Lysophosphatidylcholine acyltransferase 2
+Water	 associated_with 	 Nitric oxide synthase, inducible
+S-Adenosylmethionine	 associated_with 	 Glycine N-methyltransferase
+Calcium	 associated_with 	 Glucagon receptor
+Guanosine triphosphate	 associated_with 	 Nucleolar and coiled-body phosphoprotein 1
+Sodium	 associated_with 	 Amiloride-sensitive cation channel 3
+gamma-Aminobutyric acid	 associated_with 	 Fatty aldehyde dehydrogenase
+Guanosine triphosphate	 associated_with 	 Coatomer subunit gamma
+Prostaglandin E2	 associated_with 	 Prostaglandin E2 receptor EP1 subtype
+Manganese	 associated_with 	 Nucleoside diphosphate-linked moiety X motif 19, mitochondrial
+Calcium	 associated_with 	 Small conductance calcium-activated potassium channel protein 1
+Calcium	 associated_with 	 Bone morphogenetic protein 8A
+Melatonin	 associated_with 	 Indoleamine 2,3-dioxygenase 1
+L-Glutamine	 associated_with 	 Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial
+Propionylcarnitine	 associated_with 	 Carnitine O-acetyltransferase
+Thymidine	 associated_with 	 Cytosolic 5'-nucleotidase 1B
+Magnesium	 associated_with 	 Dual specificity mitogen-activated protein kinase kinase 5
+Sodium	 associated_with 	 Sodium- and chloride-dependent taurine transporter
+ADP	 associated_with 	 ATP-dependent RNA helicase DDX19A
+Magnesium	 associated_with 	 Cytosolic 5'-nucleotidase 1B
+SM(d18:0/22:1(13Z)(OH))	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit H
+L-Methionine	 associated_with 	 S-methylmethionine--homocysteine S-methyltransferase BHMT2
+Adenosine triphosphate	 associated_with 	 Threonine--tRNA ligase, cytoplasmic
+Isopropyl alcohol	 associated_with 	 mRNA-capping enzyme
+Calcium	 associated_with 	 Taste receptor type 2 member 16
+ADP	 associated_with 	 Ethanolamine kinase 1
+Ammonia	 associated_with 	 Glutamine synthetase
+Potassium	 associated_with 	 Calcium-activated potassium channel subunit alpha-1
+Calcium	 associated_with 	 Asialoglycoprotein receptor 2
+L-Lysine	 associated_with 	 Histone-lysine N-methyltransferase NSD3
+Ammonia	 associated_with 	 Activation-induced cytidine deaminase
+Adenosine triphosphate	 associated_with 	 Ubiquitin-conjugating enzyme E2 W
+14,15-Epoxy-5,8,11-eicosatrienoic acid	 associated_with 	 Cytochrome P450 1B1
+Citric acid	 associated_with 	 Proto-oncogene tyrosine-protein kinase Src
+Adenosine monophosphate	 associated_with 	 Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1C
+L-Glutamic acid	 associated_with 	 Metabotropic glutamate receptor 4
+Calcium	 associated_with 	 Serine/threonine-protein phosphatase 6 catalytic subunit
+Calcium	 associated_with 	 Leukotriene B4 receptor 1
+Hydrogen carbonate	 associated_with 	 Carbonic anhydrase 3
+Cytidine	 associated_with 	 Probable DNA dC->dU-editing enzyme APOBEC-3D
+Water	 associated_with 	 Putative ATP-dependent RNA helicase TDRD9
+Myristic acid	 associated_with 	 Group 3 secretory phospholipase A2
+Glutathione	 associated_with 	 Glutathione S-transferase kappa 1
+Water	 associated_with 	 Ectonucleoside triphosphate diphosphohydrolase 4
+ADP	 associated_with 	 Copper-transporting ATPase 2
+Calcium	 associated_with 	 Calcium/calmodulin-dependent protein kinase I, isoform CRA_a
+Adenosine triphosphate	 associated_with 	 Neurotrophic tyrosine kinase, receptor, type 3
+Adenosine monophosphate	 associated_with 	 E3 ubiquitin-protein ligase TRIM32
+Calcium	 associated_with 	 Calcium-binding mitochondrial carrier protein SCaMC-1
+Adenosine triphosphate	 associated_with 	 DNA-directed RNA polymerases I and III subunit RPAC2
+Cyclic AMP	 associated_with 	 cAMP-dependent protein kinase catalytic subunit beta
+Testosterone	 associated_with 	 Estradiol 17-beta-dehydrogenase 11
+Adenosine triphosphate	 associated_with 	 Nucleoside diphosphate kinase homolog 5
+Spermine	 associated_with 	 4-trimethylaminobutyraldehyde dehydrogenase
+Adenosine triphosphate	 associated_with 	 E3 ubiquitin-protein ligase NEDD4-like
+ADP	 associated_with 	 RuvB-like 2
+Pyridoxal 5'-phosphate	 associated_with 	 Glycogen phosphorylase, brain form
+SM(d18:1/24:1(15Z))	 associated_with 	 Sphingomyelin synthase-related protein 1
+Calcium	 associated_with 	 Desmoglein-1
+Oxidized glutathione	 associated_with 	 Glutathione peroxidase 1
+Calcium	 associated_with 	 Matrix metalloproteinase-20
+Water	 associated_with 	 Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A
+Guanosine triphosphate	 associated_with 	 Fucose-1-phosphate guanylyltransferase
+Isopropyl alcohol	 associated_with 	 L-xylulose reductase
+LysoPC(20:4(8Z,11Z,14Z,17Z)/0:0)	 associated_with 	 Lysophosphatidylcholine acyltransferase 1
+ADP	 associated_with 	 Probable phospholipid-transporting ATPase VD
+Oxoglutaric acid	 associated_with 	 2-oxoglutarate dehydrogenase-like, mitochondrial
+Fumaric acid	 associated_with 	 Argininosuccinate lyase
+Calcium	 associated_with 	 Tropomyosin alpha-4 chain
+Sorbitol	 associated_with 	 Glucokinase
+Adenosine triphosphate	 associated_with 	 Ubiquitin-conjugating enzyme E2 R1
+SM(d18:0/14:1(9Z)(OH))	 associated_with 	 Sphingomyelin phosphodiesterase
+Zinc	 associated_with 	 Protein lin-28 homolog A
+Myristic acid	 associated_with 	 Aminoacylase-1
+Calcium	 associated_with 	 RNA-binding protein EWS
+SM(d18:1/16:0)	 associated_with 	 GPI transamidase component PIG-T
+Water	 associated_with 	 Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma
+Water	 associated_with 	 Elongation factor 1-alpha 1
+SM(d18:1/26:1(17Z))	 associated_with 	 T-cell surface glycoprotein CD1a
+Adenosine triphosphate	 associated_with 	 Nuclear respiratory factor 1
+beta-Alanine	 associated_with 	 Monocarboxylate transporter 10
+Quinolinic acid	 associated_with 	 Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+Cobalt	 associated_with 	 Methylmalonic aciduria and homocystinuria type C protein
+Guanosine triphosphate	 associated_with 	 Sterol regulatory element-binding protein cleavage-activating protein
+L-alpha-Aminobutyric acid	 associated_with 	 Glycine amidinotransferase, mitochondrial
+Adenosine triphosphate	 associated_with 	 Serine/threonine-protein kinase Nek5
+Adenosine monophosphate	 associated_with 	 Long-chain-fatty-acid--CoA ligase 6
+ADP	 associated_with 	 Wee1-like protein kinase
+Thymidine	 associated_with 	 Cytosolic 5'-nucleotidase 3
+Calcium	 associated_with 	 Polypeptide N-acetylgalactosaminyltransferase-like 6
+Water	 associated_with 	 Bisphosphoglycerate mutase
+Fe2+	 associated_with 	 NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial
+Succinic acid	 associated_with 	 Phytanoyl-CoA dioxygenase, peroxisomal
+Calcium	 associated_with 	 Annexin A2
+Adenosine monophosphate	 associated_with 	 SUMO-conjugating enzyme UBC9
+Water	 associated_with 	 ATP-dependent RNA helicase DHX29
+Water	 associated_with 	 Fatty acid synthase
+Adenosine triphosphate	 associated_with 	 Ubiquitin conjugation factor E4 B
+Arachidonic acid	 associated_with 	 Patatin-like phospholipase domain-containing protein 3
+Manganese	 associated_with 	 Protein prune homolog
+ADP	 associated_with 	 Serine/threonine-protein kinase 4
+ADP	 associated_with 	 [Protein ADP-ribosylarginine] hydrolase
+SM(d18:1/26:0)	 associated_with 	 Phosphatidylinositol-glycan biosynthesis class F protein
+Ibuprofen	 associated_with 	 Aldo-keto reductase family 1 member C2
+ADP	 associated_with 	 Serine/threonine-protein kinase Nek7
+L-Alanine	 associated_with 	 Monocarboxylate transporter 10
+Adenosine triphosphate	 associated_with 	 Tyrosine-protein kinase Srms
+Guanosine diphosphate	 associated_with 	 Rho guanine nucleotide exchange factor 10-like protein
+gamma-Aminobutyric acid	 associated_with 	 Gamma-aminobutyric acid receptor subunit delta
+Cholesterol	 associated_with 	 Nuclear receptor ROR-alpha
+Thymidine	 associated_with 	 Solute carrier family 22 member 1
+Sodium	 associated_with 	 Sodium/calcium exchanger 3
+Guanosine triphosphate	 associated_with 	 Cytohesin-1
+Guanosine triphosphate	 associated_with 	 Dedicator of cytokinesis protein 5
+Magnesium	 associated_with 	 Mitogen-activated protein kinase kinase kinase 2
+Cyclic AMP	 associated_with 	 cAMP-dependent protein kinase inhibitor beta
+Adenosine triphosphate	 associated_with 	 Microtubule-associated serine/threonine-protein kinase 1
+Calcium	 associated_with 	 Fibroblast growth factor 23
+Water	 associated_with 	 Dual specificity phosphatase DUPD1
+Selenium	 associated_with 	 Phospholipid hydroperoxide glutathione peroxidase, mitochondrial
+Fe2+	 associated_with 	 Serine/threonine-protein phosphatase PP1-gamma catalytic subunit
+L-Glutamic acid	 associated_with 	 Alanine aminotransferase 1
+ADP	 associated_with 	 Activin receptor type-1
+Myristic acid	 associated_with 	 Cytosolic phospholipase A2 delta
+Propionic acid	 associated_with 	 ACSS2 protein
+Guanosine triphosphate	 associated_with 	 WD repeat-containing protein 44
+Calcium	 associated_with 	 Free fatty acid receptor 2
+Magnesium	 associated_with 	 Heparanase
+Adenosine monophosphate	 associated_with 	 NEDD8-conjugating enzyme Ubc12
+Guanosine triphosphate	 associated_with 	 DENN domain-containing protein 5A
+Dimethylamine	 associated_with 	 Amine oxidase [flavin-containing] B
+gamma-Aminobutyric acid	 associated_with 	 Gamma-aminobutyric acid receptor subunit theta
+Water	 associated_with 	 Neutral alpha-glucosidase C
+Calcium	 associated_with 	 Putative myosin light chain kinase 3
+ADP	 associated_with 	 Serine/threonine-protein kinase ULK3
+Water	 associated_with 	 Cytochrome c oxidase subunit 8C, mitochondrial
+Water	 associated_with 	 Carbonic anhydrase 12
+Thiamine pyrophosphate	 associated_with 	 Pyruvate dehydrogenase E1 component subunit beta, mitochondrial
+ADP	 associated_with 	 Leucine-rich repeat serine/threonine-protein kinase 2
+Water	 associated_with 	 Cytochrome c oxidase subunit 6A2, mitochondrial
+Magnesium	 associated_with 	 Inorganic pyrophosphatase 2, mitochondrial
+Guanosine triphosphate	 associated_with 	 Tubulin beta-8 chain
+ADP	 associated_with 	 Probable phospholipid-transporting ATPase IK
+Calcium	 associated_with 	 Cytosolic phospholipase A2 delta
+D-Mannose	 associated_with 	 Deoxyribonuclease-1
+L-Aspartic acid	 associated_with 	 Asparagine synthetase [glutamine-hydrolyzing]
+ADP	 associated_with 	 Adenylate kinase isoenzyme 4, mitochondrial
+Guanosine triphosphate	 associated_with 	 Coatomer subunit gamma-2
+Ammonia	 associated_with 	 Deoxycytidylate deaminase
+Chloride ion	 associated_with 	 FXYD domain-containing ion transport regulator 3
+ADP	 associated_with 	 V-type proton ATPase subunit D
+Adenosine triphosphate	 associated_with 	 DNA-directed RNA polymerases I, II, and III subunit RPABC5
+Adenosine triphosphate	 associated_with 	 Mitogen-activated protein kinase 3
+L-Cysteine	 associated_with 	 Molybdenum cofactor sulfurase
+Spermine	 associated_with 	 Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial
+Guanosine triphosphate	 associated_with 	 Probable E3 ubiquitin-protein ligase HERC1
+SM(d18:0/24:1(15Z)(OH))	 associated_with 	 Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1
+Cholesterol	 associated_with 	 Cholesterol 24-hydroxylase
+Water	 associated_with 	 Sphingomyelin phosphodiesterase 3
+Adenosine triphosphate	 associated_with 	 DNA ligase 3
+Parathion	 associated_with 	 Cytochrome P450 2C8
+S-Adenosylhomocysteine	 associated_with 	 tRNA (cytosine(38)-C(5))-methyltransferase
+Palmitic acid	 associated_with 	 Endothelial lipase
+L-Alanine	 associated_with 	 Peptidoglycan recognition protein 1
+12,13-EpOME	 associated_with 	 Cytochrome P450 2C8
+Water	 associated_with 	 Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial
+S-Adenosylhomocysteine	 associated_with 	 Small RNA 2'-O-methyltransferase
+Manganese	 associated_with 	 Polypeptide N-acetylgalactosaminyltransferase 3
+Adenosine triphosphate	 associated_with 	 RuvB-like 2
+Adenosine triphosphate	 associated_with 	 Protein kinase C epsilon type
+S-Adenosylmethionine	 associated_with 	 Histone-lysine N-methyltransferase SETD1A
+Water	 associated_with 	 Glutathione S-transferase P
+Adenosine triphosphate	 associated_with 	 Ephrin type-A receptor 1
+Magnesium	 associated_with 	 UMP-CMP kinase
+Calcium	 associated_with 	 Serum deprivation-response protein
+Ureidopropionic acid	 associated_with 	 Dihydropyrimidinase-related protein 3
+Spermine	 associated_with 	 Ornithine decarboxylase antizyme 1
+Water	 associated_with 	 Cystathionine gamma-lyase
+Water	 associated_with 	 Glutathione peroxidase 6
+Thiocyanate	 associated_with 	 Thiosulfate sulfurtransferase/rhodanese-like domain-containing protein 1
+SM(d18:0/24:1(15Z)(OH))	 associated_with 	 Proactivator polypeptide
+Water	 associated_with 	 DNA dC->dU-editing enzyme APOBEC-3F
+Cobalt	 associated_with 	 Methionine synthase
+SM(d18:0/14:1(9Z)(OH))	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit Q
+Sodium	 associated_with 	 Sodium-dependent multivitamin transporter
+Cobalamin	 associated_with 	 Methylmalonic aciduria and homocystinuria type C protein
+LysoPC(18:0/0:0)	 associated_with 	 Group IIF secretory phospholipase A2
+SM(d18:1/26:0)	 associated_with 	 Globoside alpha-1,3-N-acetylgalactosaminyltransferase 1
+ADP	 associated_with 	 Superkiller viralicidic activity 2-like 2
+Calcium	 associated_with 	 Polypeptide N-acetylgalactosaminyltransferase 14
+Adenosine triphosphate	 associated_with 	 Testis-specific serine kinase 1
+Water	 associated_with 	 Copper-transporting ATPase 2
+SM(d18:0/14:1(9Z)(OH))	 associated_with 	 Lipopolysaccharide-binding protein
+Guanosine triphosphate	 associated_with 	 Serine/threonine-protein kinase PAK 3
+ADP	 associated_with 	 Cell division protein kinase 5
+Cyclic AMP	 associated_with 	 Aryl hydrocarbon receptor
+Magnesium	 associated_with 	 Sphingomyelin phosphodiesterase 3
+Adenosine triphosphate	 associated_with 	 Plasma membrane calcium-transporting ATPase 2
+Guanosine diphosphate	 associated_with 	 Guanine nucleotide binding protein (G protein), alpha 14
+Adenosine triphosphate	 associated_with 	 Cell division protein kinase 17
+Adenosine triphosphate	 associated_with 	 Probable phospholipid-transporting ATPase VD
+Calcium	 associated_with 	 Sodium/potassium/calcium exchanger 2
+Ammonia	 associated_with 	 Protein-glutamine gamma-glutamyltransferase 4
+Norepinephrine	 associated_with 	 Cytochrome P450 1A2
+Cortisol	 associated_with 	 Mineralocorticoid receptor
+Chloride ion	 associated_with 	 Solute carrier family 12 member 4
+ADP	 associated_with 	 MAP kinase-activated protein kinase 2
+Water	 associated_with 	 Probable ATP-dependent RNA helicase DDX27
+Selenium	 associated_with 	 Glutathione peroxidase 3
+Prostaglandin F2a	 associated_with 	 Carbonyl reductase [NADPH] 1
+Zinc	 associated_with 	 Fructose-bisphosphate aldolase C
+Adenosine triphosphate	 associated_with 	 Adenylate cyclase type 6
+ADP	 associated_with 	 Probable gluconokinase
+Water	 associated_with 	 Putative ATP-dependent RNA helicase DHX30
+S-Adenosylhomocysteine	 associated_with 	 Uncharacterized methyltransferase WBSCR22
+Arachidonic acid	 associated_with 	 Cytochrome P450 4Z1
+Thromboxane	 associated_with 	 Thromboxane A2 receptor
+Adenosine triphosphate	 associated_with 	 ATP-dependent RNA helicase DHX29
+Succinic acid semialdehyde	 associated_with 	 4-aminobutyrate aminotransferase, mitochondrial
+Adenosine triphosphate	 associated_with 	 V-type proton ATPase catalytic subunit A
+L-Aspartic acid	 associated_with 	 Adenylosuccinate synthetase isozyme 2
+ADP	 associated_with 	 Diacylglycerol kinase, epsilon 64kDa
+Ethanol	 associated_with 	 Glutamate receptor 1
+Adenosine triphosphate	 associated_with 	 Membrane-associated ring finger (C3HC4) 6 (Membrane-associated ring finger (C3HC4) 6, isoform CRA_a)
+Guanosine triphosphate	 associated_with 	 Eukaryotic translation initiation factor 2A
+Citrulline	 associated_with 	 Ornithine carbamoyltransferase, mitochondrial
+Water	 associated_with 	 Cytosolic 5'-nucleotidase 1B
+Adenosine triphosphate	 associated_with 	 Chromodomain-helicase-DNA-binding protein 1
+Calcium	 associated_with 	 Gamma-aminobutyric acid type B receptor subunit 2
+5-HETE	 associated_with 	 Glutathione peroxidase 2
+ADP	 associated_with 	 Serine/threonine-protein kinase/endoribonuclease IRE1
+Manganese	 associated_with 	 Bis(5'-adenosyl)-triphosphatase
+SM(d18:1/16:0)	 associated_with 	 GPI mannosyltransferase 4
+Fe2+	 associated_with 	 Ribonucleoside-diphosphate reductase large subunit
+L-Arginine	 associated_with 	 [Protein ADP-ribosylarginine] hydrolase
+Calcium	 associated_with 	 C-C chemokine receptor type 9
+Testosterone	 associated_with 	 Estradiol 17-beta-dehydrogenase 2
+Calcium	 associated_with 	 Serine/threonine-protein phosphatase with EF-hands 2
+Theophylline	 associated_with 	 cGMP-specific 3',5'-cyclic phosphodiesterase
+Adenosine monophosphate	 associated_with 	 Biotin--protein ligase
+Adenosine triphosphate	 associated_with 	 Ectonucleoside triphosphate diphosphohydrolase 3
+Sodium	 associated_with 	 Sodium-coupled neutral amino acid transporter 3
+Water	 associated_with 	 Selenide, water dikinase 1
+Magnesium	 associated_with 	 6-phosphofructokinase, muscle type
+Caproic acid	 associated_with 	 Acyl-coenzyme A synthetase ACSM6, mitochondrial
+Water	 associated_with 	 Dual specificity protein phosphatase CDC14C
+Pyridoxal	 associated_with 	 Glycine dehydrogenase [decarboxylating], mitochondrial
+Adenosine triphosphate	 associated_with 	 SNF-related serine/threonine-protein kinase
+Water	 associated_with 	 Probable ATP-dependent RNA helicase YTHDC2
+Calcium	 associated_with 	 Protocadherin-11 Y-linked
+SM(d18:1/18:0)	 associated_with 	 N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+Myristic acid	 associated_with 	 CPT1B protein
+Cyclic AMP	 associated_with 	 cAMP-dependent protein kinase type I-beta regulatory subunit
+12,13-EpOME	 associated_with 	 Cytochrome P450 3A7
+Adenosine monophosphate	 associated_with 	 Glycogen phosphorylase, liver form
+Water	 associated_with 	 Putative uncharacterized protein DKFZp686I0955
+Sodium	 associated_with 	 Phosphate-regulating neutral endopeptidase
+S-Adenosylmethionine	 associated_with 	 Dimethyladenosine transferase 1, mitochondrial
+Calcium	 associated_with 	 C-C chemokine receptor type 5
+Calcium	 associated_with 	 Synapsin-3
+Guanosine diphosphate	 associated_with 	 6-phosphofructokinase, liver type
+Adenosine triphosphate	 associated_with 	 Putative ATP-dependent RNA helicase TDRD9
+11,12-Epoxyeicosatrienoic acid	 associated_with 	 Cytochrome P450 2A6
+Water	 associated_with 	 Putative tyrosine-protein phosphatase auxilin
+Progesterone	 associated_with 	 3-oxo-5-beta-steroid 4-dehydrogenase
+Water	 associated_with 	 Group 10 secretory phospholipase A2
+Palmitic acid	 associated_with 	 Lipoprotein lipase
+Fe2+	 associated_with 	 Ferrochelatase, mitochondrial
+Androstenedione	 associated_with 	 Cytochrome P450 19A1
+Calcium	 associated_with 	 Integrin beta-7
+Glycine	 associated_with 	 Glutamate [NMDA] receptor subunit epsilon-3
+Chloride ion	 associated_with 	 Pendrin
+Adenosine triphosphate	 associated_with 	 Probable phospholipid-transporting ATPase IA
+SM(d18:1/24:1(15Z))	 associated_with 	 GPI transamidase component PIG-T
+Adenosine	 associated_with 	 Adenosine receptor A3
+Palmitic acid	 associated_with 	 Group IID secretory phospholipase A2
+SM(d18:1/18:1(11Z))	 associated_with 	 Pleckstrin homology domain-containing family A member 8
+Ammonia	 associated_with 	 Putative L-aspartate dehydrogenase
+Adenosine triphosphate	 associated_with 	 Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial
+L-Cystine	 associated_with 	 B(0,+)-type amino acid transporter 1
+Linoleic acid	 associated_with 	 Phospholipase A2, membrane associated
+4-Pyridoxic acid	 associated_with 	 Aldehyde oxidase
+L-Alanine	 associated_with 	 Sodium-coupled neutral amino acid transporter 3
+SM(d18:0/16:1(9Z)(OH))	 associated_with 	 T-cell surface glycoprotein CD1c
+Progesterone	 associated_with 	 Cytochrome P450 2A6
+Adenosine triphosphate	 associated_with 	 Dual specificity mitogen-activated protein kinase kinase 2
+11,12-Epoxyeicosatrienoic acid	 associated_with 	 Cytochrome P450 2C8
+Calcium	 associated_with 	 Protein kinase C epsilon type
+Stearic acid	 associated_with 	 CREB3L2-PPARgamma
+Manganese	 associated_with 	 NADP-dependent malic enzyme, mitochondrial
+SM(d18:1/26:1(17Z))	 associated_with 	 GPI transamidase component PIG-S
+Sodium	 associated_with 	 Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+Water	 associated_with 	 Phosphoribosylformylglycinamidine synthase
+Adenosine triphosphate	 associated_with 	 Inhibitor of nuclear factor kappa-B kinase subunit epsilon
+Levofloxacin	 associated_with 	 DNA topoisomerase 2-alpha
+Prostaglandin D2	 associated_with 	 Prostaglandin D2 receptor
+Calcium	 associated_with 	 Potassium channel subfamily U member 1
+Guanosine diphosphate	 associated_with 	 6-phosphofructokinase, muscle type
+L-Tyrosine	 associated_with 	 Thyroid peroxidase
+Water	 associated_with 	 Transitional endoplasmic reticulum ATPase
+Propionylcarnitine	 associated_with 	 Mitochondrial carnitine/acylcarnitine carrier protein
+L-Tyrosine	 associated_with 	 Phenylalanine-4-hydroxylase
+Glycerol	 associated_with 	 Alcohol dehydrogenase class-3
+Guanosine triphosphate	 associated_with 	 Transportin-1
+Manganese	 associated_with 	 Activin receptor type-2A
+SM(d18:1/18:0)	 associated_with 	 Glycolipid transfer protein domain-containing protein 1
+L-Isoleucine	 associated_with 	 Monocarboxylate transporter 10
+Magnesium	 associated_with 	 Inward rectifier potassium channel 4
+Copper	 associated_with 	 Proprotein convertase subtilisin/kexin type 7
+Magnesium	 associated_with 	 Testis-specific serine/threonine-protein kinase 6
+Water	 associated_with 	 Chitinase-3-like protein 1
+Glyceric acid	 associated_with 	 4-trimethylaminobutyraldehyde dehydrogenase
+D-Glucose	 associated_with 	 Aldose 1-epimerase
+3-Sulfinoalanine	 associated_with 	 Aspartate aminotransferase, cytoplasmic
+ADP	 associated_with 	 Casein kinase I isoform gamma-3
+Water	 associated_with 	 Cone cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha'
+Arachidonic acid	 associated_with 	 Phospholipase A2
+Calcium	 associated_with 	 Arylsulfatase I
+L-Kynurenine	 associated_with 	 Aminoadipate aminotransferase, isoform CRA_b
+Water	 associated_with 	 Pterin-4-alpha-carbinolamine dehydratase
+ADP	 associated_with 	 Nucleolar RNA helicase 2
+Sodium	 associated_with 	 Sodium channel protein type 9 subunit alpha
+14,15-Epoxy-5,8,11-eicosatrienoic acid	 associated_with 	 Cytochrome P450 2E1
+ADP	 associated_with 	 Beta-type platelet-derived growth factor receptor
+Adenosine triphosphate	 associated_with 	 Long-chain-fatty-acid--CoA ligase 1
+Copper	 associated_with 	 Protein-lysine 6-oxidase
+Ammonia	 associated_with 	 Diphthine--ammonia ligase
+SM(d18:0/16:1(9Z))	 associated_with 	 GPI mannosyltransferase 1
+Adenosine triphosphate	 associated_with 	 ATP synthase subunit beta, mitochondrial
+Water	 associated_with 	 U8 snoRNA-decapping enzyme
+15-HETE	 associated_with 	 Glutathione peroxidase 1
+Calcium	 associated_with 	 P2Y purinoceptor 4
+Fe2+	 associated_with 	 Serotransferrin
+Manganese	 associated_with 	 TGF-beta receptor type-2
+Manganese	 associated_with 	 Serine/threonine-protein kinase Nek11
+Water	 associated_with 	 Thioredoxin reductase 3
+D-Lactic acid	 associated_with 	 Monocarboxylate transporter 4
+Calcium	 associated_with 	 Protein G6b
+SM(d18:1/18:0)	 associated_with 	 Glycosylphosphatidylinositol anchor attachment 1 protein
+SM(d18:0/22:1(13Z)(OH))	 associated_with 	 T-cell surface glycoprotein CD1a
+ADP	 associated_with 	 V-type proton ATPase subunit d 2
+Oxoglutaric acid	 associated_with 	 Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial
+ADP	 associated_with 	 ATP-dependent RNA helicase DDX1
+Adenosine triphosphate	 associated_with 	 V-type proton ATPase subunit D
+Adenosine triphosphate	 associated_with 	 Mitogen-activated protein kinase kinase kinase 11
+Palmitic acid	 associated_with 	 Phospholipase A2
+LysoPC(20:4(8Z,11Z,14Z,17Z)/0:0)	 associated_with 	 Group IIF secretory phospholipase A2
+Estradiol	 associated_with 	 UDP-glucuronosyltransferase 1-4
+Adenosine triphosphate	 associated_with 	 Pyruvate kinase isozymes R/L
+Water	 associated_with 	 UDP-glucuronosyltransferase 1-7
+Zinc	 associated_with 	 Carbonic anhydrase 6
+Cyclic AMP	 associated_with 	 Serine/threonine-protein kinase 11
+Water	 associated_with 	 Glucosamine-6-phosphate isomerase 2
+Water	 associated_with 	 Probable phospholipid-transporting ATPase IH
+Calcium	 associated_with 	 Glutamate [NMDA] receptor subunit epsilon-4
+ADP	 associated_with 	 Ribosomal protein S6 kinase alpha-1
+Calcium	 associated_with 	 Sn1-specific diacylglycerol lipase beta
+Sodium	 associated_with 	 Sodium-coupled neutral amino acid transporter 5
+Cyclic AMP	 associated_with 	 cAMP-dependent protein kinase type I-alpha regulatory subunit
+gamma-Aminobutyric acid	 associated_with 	 Gamma-aminobutyric acid receptor-associated protein-like 2
+Guanosine triphosphate	 associated_with 	 Cytoplasmic FMR1-interacting protein 1
+Calcium	 associated_with 	 Cadherin-like protein 26
+gamma-Aminobutyric acid	 associated_with 	 Aldehyde dehydrogenase family 1 member A3
+Succinic acid	 associated_with 	 Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1
+Thiamine pyrophosphate	 associated_with 	 Transketolase-like protein 2
+Adenosine triphosphate	 associated_with 	 Nicotinamide riboside kinase 2
+gamma-Aminobutyric acid	 associated_with 	 Gamma-aminobutyric acid receptor subunit beta-1
+Epinephrine	 associated_with 	 Phenylethanolamine N-methyltransferase
+Water	 associated_with 	 Cholesterol 24-hydroxylase
+12,13-EpOME	 associated_with 	 Cytochrome P450 1A2
+L-Glutamic acid	 associated_with 	 Arginine decarboxylase
+Calcium	 associated_with 	 Alpha-2-HS-glycoprotein
+Palmitic acid	 associated_with 	 CPT1B protein
+N6,N6,N6-Trimethyl-L-lysine	 associated_with 	 Signal peptidase complex subunit 1
+Succinic acid	 associated_with 	 Prolyl 3-hydroxylase 3
+Inosinic acid	 associated_with 	 5'(3')-deoxyribonucleotidase, cytosolic type
+Adenosine triphosphate	 associated_with 	 Plasma membrane calcium-transporting ATPase 4
+Calcium	 associated_with 	 Centrin-1
+Water	 associated_with 	 Probable ATP-dependent RNA helicase DDX59
+Sepiapterin	 associated_with 	 14-3-3 protein beta/alpha
+Water	 associated_with 	 Dual specificity phosphatase 28
+Guanosine triphosphate	 associated_with 	 Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-5
+Calcium	 associated_with 	 Calreticulin-3
+L-Histidine	 associated_with 	 Uncharacterized methyltransferase WBSCR22
+Cyclic AMP	 associated_with 	 Cyclic AMP-dependent transcription factor ATF-2
+Adenosine triphosphate	 associated_with 	 DNA replication licensing factor MCM6
+L-Leucine	 associated_with 	 Large neutral amino acids transporter small subunit 2
+Fe2+	 associated_with 	 Superoxide dismutase [Mn], mitochondrial
+Manganese	 associated_with 	 Acetyl-CoA carboxylase 1
+Guanosine triphosphate	 associated_with 	 Guanine nucleotide-binding protein G(q) subunit alpha
+Calcium	 associated_with 	 G-protein coupled receptor 6
+3-Methylhistidine	 associated_with 	 Uncharacterized methyltransferase WBSCR22
+Guanosine triphosphate	 associated_with 	 Ras-interacting protein 1
+ADP	 associated_with 	 Diphosphomevalonate decarboxylase
+Calcium	 associated_with 	 Synaptotagmin-9
+Guanosine diphosphate	 associated_with 	 Adenylosuccinate synthetase isozyme 1
+Calcium	 associated_with 	 Protocadherin gamma-B4
+Magnesium	 associated_with 	 Phosphoacetylglucosamine mutase
+Adenosine triphosphate	 associated_with 	 Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta isoform
+Dopamine	 associated_with 	 Neuron-specific vesicular protein calcyon
+Guanosine triphosphate	 associated_with 	 Serine/threonine-protein kinase PAK 2
+Adenosine triphosphate	 associated_with 	 Serine/threonine-protein kinase RIO2
+Water	 associated_with 	 Carbonic anhydrase 14
+Water	 associated_with 	 Alpha-amylase 2B
+Ketoleucine	 associated_with 	 2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial
+Calcium	 associated_with 	 Gamma-aminobutyric acid type B receptor subunit 1
+Thiamine	 associated_with 	 14 kDa phosphohistidine phosphatase
+ADP	 associated_with 	 Mitogen-activated protein kinase kinase kinase 13
+Magnesium	 associated_with 	 Mitogen-activated protein kinase kinase kinase 12
+Calcium	 associated_with 	 Alpha-1-syntrophin
+Succinic acid	 associated_with 	 Prolyl 3-hydroxylase 1
+SM(d18:0/22:2(13Z,16Z)(OH))	 associated_with 	 GPI mannosyltransferase 3
+Calcium	 associated_with 	 Sodium leak channel non-selective protein
+Guanosine triphosphate	 associated_with 	 PH and SEC7 domain-containing protein 4
+Calcium	 associated_with 	 Protocadherin alpha-7
+Progesterone	 associated_with 	 Peptidyl-prolyl cis-trans isomerase FKBP5
+Fe2+	 associated_with 	 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4-like 2
+Linoleic acid	 associated_with 	 Phospholipase A2
+Cobalt	 associated_with 	 Chondroitin sulfate synthase 2
+ADP	 associated_with 	 Proto-oncogene tyrosine-protein kinase ROS
+Adenosine triphosphate	 associated_with 	 DNA ligase 1
+Pyroglutamic acid	 associated_with 	 Alpha-amylase 1
+Hypoxanthine	 associated_with 	 Purine nucleoside phosphorylase
+Oxoglutaric acid	 associated_with 	 Lysine-specific demethylase 2A
+Water	 associated_with 	 Frataxin, mitochondrial
+Allantoin	 associated_with 	 Putative 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase
+Adenosine triphosphate	 associated_with 	 Phenylalanine--tRNA ligase alpha subunit
+Potassium	 associated_with 	 Protein ATP1B4
+Sodium	 associated_with 	 Putative sodium-coupled neutral amino acid transporter 11
+Water	 associated_with 	 Aquaporin-10
+Potassium	 associated_with 	 Potassium-transporting ATPase alpha chain 2
+Pyridoxal 5'-phosphate	 associated_with 	 Glutamate decarboxylase 2 (Pancreatic islets and brain, 65kDa)
+Paraxanthine	 associated_with 	 Cytochrome P450 1A2
+ADP	 associated_with 	 Tyrosine-protein kinase receptor Tie-1
+Calcium	 associated_with 	 Serine/threonine-protein kinase DCLK1
+Ureidopropionic acid	 associated_with 	 Beta-ureidopropionase
+Calcium	 associated_with 	 Multiple C2 and transmembrane domain-containing protein 1
+LysoPC(20:4(5Z,8Z,11Z,14Z)/0:0)	 associated_with 	 Group XIIB secretory phospholipase A2-like protein
+SM(d18:0/20:2(11Z,14Z))	 associated_with 	 GPI ethanolamine phosphate transferase 2
+Manganese	 associated_with 	 Superoxide dismutase [Cu-Zn]
+Calcium	 associated_with 	 Collagen alpha-2(I) chain
+12,13-EpOME	 associated_with 	 Cytochrome P450 2J2
+L-Glutamic acid	 associated_with 	 Alanine aminotransferase 2
+Calcium	 associated_with 	 Protein kinase C zeta type
+L-Aspartic acid	 associated_with 	 Aspartate aminotransferase, cytoplasmic
+Magnesium	 associated_with 	 Serine/threonine-protein kinase tousled-like 1
+Water	 associated_with 	 Dynamin-2
+Magnesium	 associated_with 	 Serine/threonine-protein kinase 38
+Pyruvic acid	 associated_with 	 Monocarboxylate transporter 3
+Calcium	 associated_with 	 Gamma-enolase
+S-Adenosylmethionine	 associated_with 	 Adenosylhomocysteinase
+ADP	 associated_with 	 Deoxycytidine kinase
+SM(d18:1/18:0)	 associated_with 	 Protein PLEKHA9
+Oxoglutaric acid	 associated_with 	 Prolyl 4-hydroxylase subunit alpha-1
+Magnesium	 associated_with 	 Serine/threonine-protein kinase 36
+Arachidonic acid	 associated_with 	 Peroxisome proliferative activated receptor gamma isoform 2 variant
+9,10-Epoxyoctadecenoic acid	 associated_with 	 Cytochrome P450 2B6
+Sodium	 associated_with 	 Solute carrier family 13 member 1
+Pyridoxal 5'-phosphate	 associated_with 	 Aspartate aminotransferase, mitochondrial
+Palmitic acid	 associated_with 	 CPT1B protein
+Water	 associated_with 	 Cytochrome c oxidase subunit 7B, mitochondrial
+L-Lactic acid	 associated_with 	 L-lactate dehydrogenase A-like 6A
+Magnesium	 associated_with 	 Kalirin
+LysoPC(20:4(8Z,11Z,14Z,17Z)/0:0)	 associated_with 	 Phospholipase A2
+9,10-Epoxyoctadecenoic acid	 associated_with 	 Cytochrome P450 2A6
+Androstenedione	 associated_with 	 Cytochrome P450 2C8
+Riboflavin	 associated_with 	 Tartrate-resistant acid phosphatase type 5
+Fe2+	 associated_with 	 Eukaryotic translation initiation factor 2-alpha kinase 1
+Calcium	 associated_with 	 Calpain-3
+SM(d18:1/24:1(15Z))	 associated_with 	 Sphingomyelin phosphodiesterase 4
+L-Glutamic acid	 associated_with 	 Gamma-glutamyltranspeptidase 2
+Guanosine triphosphate	 associated_with 	 Elongation factor 1-alpha 1
+5-HETE	 associated_with 	 Epididymal secretory glutathione peroxidase
+Guanosine triphosphate	 associated_with 	 Tubulin alpha-4A chain
+Fe2+	 associated_with 	 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13
+S-Adenosylhomocysteine	 associated_with 	 pre-rRNA processing protein FTSJ3
+9,10-Epoxyoctadecenoic acid	 associated_with 	 Cytochrome P450 2C18
+ADP	 associated_with 	 Glucokinase
+Guanosine triphosphate	 associated_with 	 ADP-ribosylation factor 1
+Dehydroepiandrosterone	 associated_with 	 3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2
+Zinc	 associated_with 	 Zinc finger E-box-binding homeobox 1
+SM(d18:1/26:1(17Z))	 associated_with 	 GPI mannosyltransferase 1
+N-Acetyl-L-aspartic acid	 associated_with 	 N-acetylaspartyl-glutamate synthetase A
+ADP	 associated_with 	 Probable ATP-dependent RNA helicase DHX37
+Inosinic acid	 associated_with 	 5'-nucleotidase
+Adenosine triphosphate	 associated_with 	 Probable E3 ubiquitin-protein ligase HERC1
+Calcium	 associated_with 	 Protein tyrosine phosphatase type IVA 3
+Adenosine triphosphate	 associated_with 	 Sodium/potassium-transporting ATPase subunit beta-3
+Calcium	 associated_with 	 Cadherin-24
+Citrulline	 associated_with 	 Protein-arginine deiminase type-3
+ADP	 associated_with 	 Poly(ADP-ribose) glycohydrolase
+Prostaglandin D2	 associated_with 	 Prostaglandin-H2 D-isomerase
+SM(d18:0/22:2(13Z,16Z)(OH))	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit H
+Selenium	 associated_with 	 Selenide, water dikinase 1
+Dihydrobiopterin	 associated_with 	 Alkylglycerol monooxygenase
+Stearic acid	 associated_with 	 Acylphosphatase-2
+Calcium	 associated_with 	 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-1
+Adenosine triphosphate	 associated_with 	 Protein ATP1B4
+L-Dopa	 associated_with 	 Cytochrome P450 2D6
+ADP	 associated_with 	 Multiple substrate lipid kinase, isoform CRA_a
+Water	 associated_with 	 Myotubularin-related protein 7
+Palmitic acid	 associated_with 	 Gastric triacylglycerol lipase
+Water	 associated_with 	 Steroid 17-alpha-hydroxylase/17,20 lyase
+Adenosine monophosphate	 associated_with 	 Probable glutamate--tRNA ligase, mitochondrial
+12,13-EpOME	 associated_with 	 Cytochrome P450 3A5
+SM(d18:0/22:1(13Z)(OH))	 associated_with 	 GPI ethanolamine phosphate transferase 3
+SM(d18:0/24:1(15Z)(OH))	 associated_with 	 N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+S-Adenosylhomocysteine	 associated_with 	 Leucine carboxyl methyltransferase 1
+20-Hydroxyeicosatetraenoic acid	 associated_with 	 Leukotriene-B(4) omega-hydroxylase 2
+Ethanol	 associated_with 	 Alcohol dehydrogenase class-3
+SM(d18:0/16:1(9Z)(OH))	 associated_with 	 T-cell surface glycoprotein CD1b
+Calcium	 associated_with 	 Histone H2A type 2-B
+Water	 associated_with 	 Putative neutral ceramidase C
+Norepinephrine	 associated_with 	 Solute carrier family 22 member 1
+Water	 associated_with 	 Aminoacylase-1
+SM(d18:1/18:1(9Z))	 associated_with 	 Beta-1,3-galactosyltransferase 5
+Isopropyl alcohol	 associated_with 	 Hydroxyacid-oxoacid transhydrogenase, mitochondrial
+Adenosine triphosphate	 associated_with 	 Receptor-interacting serine/threonine-protein kinase 1
+Water	 associated_with 	 Ubiquitin-like domain-containing CTD phosphatase 1
+Zinc	 associated_with 	 Beta-adrenergic receptor kinase 1
+SM(d18:0/16:1(9Z))	 associated_with 	 GPI mannosyltransferase 2
+Calcium	 associated_with 	 Testican-2
+Pyridoxal 5'-phosphate	 associated_with 	 Serine hydroxymethyltransferase
+Calcium	 associated_with 	 Perforin-1
+Calcium	 associated_with 	 Asialoglycoprotein receptor 1
+ADP	 associated_with 	 Serine/threonine-protein kinase PLK4
+SM(d18:0/22:1(13Z)(OH))	 associated_with 	 Antigen-presenting glycoprotein CD1d
+Water	 associated_with 	 Peroxiredoxin-1
+D-2-Hydroxyglutaric acid	 associated_with 	 Hydroxyacid-oxoacid transhydrogenase, mitochondrial
+Adenosine triphosphate	 associated_with 	 Serine/threonine-protein kinase PLK4
+SM(d18:1/18:1(11Z))	 associated_with 	 GPI mannosyltransferase 4
+Guanosine triphosphate	 associated_with 	 GTP-binding protein Rhes
+Calcium	 associated_with 	 Ras-specific guanine nucleotide-releasing factor 2
+Adenosine triphosphate	 associated_with 	 Beta-citryl-glutamate synthase B
+Androstenedione	 associated_with 	 3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2
+Adenosine triphosphate	 associated_with 	 Serine/threonine-protein kinase Sgk1
+Pyruvic acid	 associated_with 	 3-mercaptopyruvate sulfurtransferase
+Magnesium	 associated_with 	 Transient receptor potential cation channel subfamily M member 7
+ADP	 associated_with 	 Glutamine synthetase
+Cyclic AMP	 associated_with 	 cAMP-responsive element modulator
+Adenosine triphosphate	 associated_with 	 Adenylate kinase isoenzyme 5
+2-Oxoarginine	 associated_with 	 Amiloride-sensitive amine oxidase [copper-containing]
+ADP	 associated_with 	 Nucleoside diphosphate kinase A
+Pyruvic acid	 associated_with 	 Serine dehydratase-like
+SM(d18:0/16:1(9Z)(OH))	 associated_with 	 Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase
+Fe2+	 associated_with 	 Cytochrome c oxidase subunit 1
+Adenosine monophosphate	 associated_with 	 Ubiquitin-conjugating enzyme E2 Q1
+Adenosine triphosphate	 associated_with 	 Inositol hexakisphosphate kinase 3
+Adenosine triphosphate	 associated_with 	 RAF proto-oncogene serine/threonine-protein kinase
+Adenosine triphosphate	 associated_with 	 ATP-dependent RNA helicase DDX51
+Myristic acid	 associated_with 	 Aspartoacylase
+Guanosine triphosphate	 associated_with 	 Putative GTP-binding protein 6
+Water	 associated_with 	 Ectonucleotide pyrophosphatase/phosphodiesterase family member 1
+Calcium	 associated_with 	 Voltage-dependent calcium channel gamma-4 subunit
+SM(d18:1/16:0)	 associated_with 	 Ganglioside GM2 activator
+beta-Alanine	 associated_with 	 Glutamate decarboxylase 2
+Methylmalonic acid	 associated_with 	 Aldehyde dehydrogenase family 1 member A3
+alpha-Tocopherol	 associated_with 	 Serine palmitoyltransferase 1
+Zinc	 associated_with 	 Zinc finger protein 43
+Adenosine monophosphate	 associated_with 	 Ubiquitin-conjugating enzyme E2 E2
+ADP	 associated_with 	 Ectonucleoside triphosphate diphosphohydrolase 3
+Guanosine triphosphate	 associated_with 	 Rab3 GTPase-activating protein catalytic subunit
+Norepinephrine	 associated_with 	 Solute carrier family 22 member 2
+Citrulline	 associated_with 	 Nitric oxide synthase, inducible
+S-Adenosylhomocysteine	 associated_with 	 N-terminal Xaa-Pro-Lys N-methyltransferase 1
+Adenosine triphosphate	 associated_with 	 cAMP-dependent protein kinase catalytic subunit gamma
+Magnesium	 associated_with 	 Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial
+Calcium	 associated_with 	 Serine/threonine-protein phosphatase 2B catalytic subunit gamma isoform
+Palmitic acid	 associated_with 	 ADFP protein
+Guanosine triphosphate	 associated_with 	 Eukaryotic translation initiation factor 2 subunit 3-like protein
+Manganese	 associated_with 	 Polypeptide N-acetylgalactosaminyltransferase 13
+Guanosine triphosphate	 associated_with 	 Ninein
+Manganese	 associated_with 	 Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial
+Guanosine diphosphate	 associated_with 	 Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3
+Calcium	 associated_with 	 RAS guanyl-releasing protein 1
+2-Ketobutyric acid	 associated_with 	 2-oxoisovalerate dehydrogenase subunit beta, mitochondrial
+Potassium	 associated_with 	 Calcium-activated potassium channel subunit beta-3
+Spermine	 associated_with 	 Diamine acetyltransferase 1
+SM(d18:0/22:1(13Z)(OH))	 associated_with 	 Sphingomyelin phosphodiesterase 4
+Inosinic acid	 associated_with 	 Inosine-5'-monophosphate dehydrogenase 1
+Calcium	 associated_with 	 Voltage-dependent calcium channel gamma-6 subunit
+Cyclic GMP	 associated_with 	 Adenylate cyclase type 2
+Oxoglutaric acid	 associated_with 	 Aspartate aminotransferase, mitochondrial
+Calcium	 associated_with 	 Dual specificity protein phosphatase 6
+Adenosine triphosphate	 associated_with 	 Ubiquitin-conjugating enzyme E2 Z
+Adenosine triphosphate	 associated_with 	 ATP synthase subunit f, mitochondrial
+Adenosine triphosphate	 associated_with 	 Werner syndrome ATP-dependent helicase
+S-Adenosylhomocysteine	 associated_with 	 Alkylated DNA repair protein alkB homolog 8
+Water	 associated_with 	 Twinkle protein, mitochondrial
+Calcium	 associated_with 	 Frizzled-9
+Water	 associated_with 	 N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase
+Androsterone	 associated_with 	 Bile salt sulfotransferase
+Calcium	 associated_with 	 Histone H2A type 1-A
+Fe2+	 associated_with 	 Arachidonate 15-lipoxygenase
+Water	 associated_with 	 Putative RNA polymerase II subunit B1 CTD phosphatase RPAP2
+Adenosine triphosphate	 associated_with 	 Acetyl-CoA carboxylase 1
+Calcium	 associated_with 	 Liprin-beta-1
+Adenosine triphosphate	 associated_with 	 Transitional endoplasmic reticulum ATPase
+Adenosine triphosphate	 associated_with 	 Probable ATP-dependent RNA helicase DDX49
+Water	 associated_with 	 Type II inositol 1,4,5-trisphosphate 5-phosphatase
+Water	 associated_with 	 Translation factor GUF1, mitochondrial
+Water	 associated_with 	 Lactoperoxidase
+ADP	 associated_with 	 Chromodomain-helicase-DNA-binding protein 1
+Adenosine monophosphate	 associated_with 	 Threonine--tRNA ligase, cytoplasmic
+5-Hydroxylysine	 associated_with 	 Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2
+5-Methyltetrahydrofolic acid	 associated_with 	 Uncharacterized methyltransferase WBSCR22
+Guanosine triphosphate	 associated_with 	 Importin subunit alpha-3
+D-Mannose	 associated_with 	 Beta-2-glycoprotein 1
+Adenosine triphosphate	 associated_with 	 DNA-directed RNA polymerases I, II, and III subunit RPABC3
+Thiamine pyrophosphate	 associated_with 	 Probable 2-oxoglutarate dehydrogenase E1 component DHKTD1, mitochondrial
+Sodium	 associated_with 	 Sodium-coupled neutral amino acid transporter 1
+SM(d18:1/18:0)	 associated_with 	 Pleckstrin homology domain-containing family A member 8
+Uridine	 associated_with 	 DNA dC->dU-editing enzyme APOBEC-3H
+Adenosine triphosphate	 associated_with 	 Ephrin type-A receptor 7
+3-Methoxytyramine	 associated_with 	 Amine oxidase [flavin-containing] A
+Water	 associated_with 	 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3
+Magnesium	 associated_with 	 Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial
+Adenosine triphosphate	 associated_with 	 Tyrosine-protein kinase transmembrane receptor ROR2
+ADP	 associated_with 	 Serine/threonine-protein kinase Nek1
+SM(d18:0/20:2(11Z,14Z))	 associated_with 	 N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+Guanosine triphosphate	 associated_with 	 DNA-directed RNA polymerase II subunit RPB7
+Spermine	 associated_with 	 Trimethyllysine dioxygenase, mitochondrial
+Water	 associated_with 	 Glutathione S-transferase Mu 3
+Water	 associated_with 	 Sphingomyelin phosphodiesterase
+ADP	 associated_with 	 Tyrosine-protein kinase FRK
+Caprylic acid	 associated_with 	 Carnitine O-palmitoyltransferase 2, mitochondrial
+L-Valine	 associated_with 	 Propionyl-CoA carboxylase beta chain, mitochondrial
+Water	 associated_with 	 Eukaryotic initiation factor 4A-II
+Adenosine triphosphate	 associated_with 	 DNA-directed RNA polymerase II subunit RPB11-a
+Manganese	 associated_with 	 Phosphoenolpyruvate carboxykinase [GTP], mitochondrial
+SM(d18:1/18:0)	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit H
+ADP	 associated_with 	 Phosphatidylinositol 4-kinase alpha
+Adenosine triphosphate	 associated_with 	 Mitogen-activated protein kinase 10
+Calcium	 associated_with 	 Bone morphogenetic protein 7
+Testosterone	 associated_with 	 Cytochrome P450 19A1
+Adenosine triphosphate	 associated_with 	 Probable ATP-dependent RNA helicase DHX36
+N-Acetylneuraminic acid	 associated_with 	 Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase
+SM(d18:0/20:2(11Z,14Z))	 associated_with 	 Non-lysosomal glucosylceramidase
+ADP	 associated_with 	 Serine/threonine-protein kinase MARK1
+Palmitic acid	 associated_with 	 Group XIIA secretory phospholipase A2
+L-Cysteine	 associated_with 	 Monocarboxylate transporter 10
+Adenosine monophosphate	 associated_with 	 E3 ubiquitin-protein ligase MARCH9
+Calcium	 associated_with 	 Beta-1-syntrophin
+Parathion	 associated_with 	 Cytochrome P450 2C9
+Arachidonic acid	 associated_with 	 Group XIIA secretory phospholipase A2
+2-Aminobenzoic acid	 associated_with 	 Kynureninase
+Inosinic acid	 associated_with 	 Cytosolic 5'-nucleotidase 1A
+Adenosine triphosphate	 associated_with 	 Xylulose kinase
+Calcium	 associated_with 	 Neuronal pentraxin-1
+Myristic acid	 associated_with 	 Lysosomal thioesterase PPT2
+Guanosine triphosphate	 associated_with 	 Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3
+Guanosine triphosphate	 associated_with 	 Synaptotagmin-like protein 3
+Guanosine triphosphate	 associated_with 	 Rab5 GDP/GTP exchange factor
+Manganese	 associated_with 	 Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1
+Guanosine diphosphate	 associated_with 	 Dolichol-phosphate mannosyltransferase
+Calcium	 associated_with 	 Protocadherin beta-12
+ADP	 associated_with 	 Mixed lineage kinase domain-like protein
+Ammonia	 associated_with 	 Glutaminase kidney isoform, mitochondrial
+Magnesium	 associated_with 	 Mitogen-activated protein kinase 4
+Pyridoxal 5'-phosphate	 associated_with 	 Alanine aminotransferase 1
+15-HETE	 associated_with 	 Phospholipid hydroperoxide glutathione peroxidase, mitochondrial
+Ethanol	 associated_with 	 Neuronal acetylcholine receptor subunit beta-4
+Guanosine triphosphate	 associated_with 	 Ectonucleoside triphosphate diphosphohydrolase 4
+Arachidonic acid	 associated_with 	 Neuropathy target esterase
+Cyclic AMP	 associated_with 	 High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A
+Guanosine triphosphate	 associated_with 	 Acyl-coenzyme A synthetase ACSM6, mitochondrial
+Cyclic GMP	 associated_with 	 Adenylate cyclase type 1
+Glycerophosphocholine	 associated_with 	 Lysoplasmalogenase
+Water	 associated_with 	 AMP deaminase 2
+1-Phenylethylamine	 associated_with 	 Amine oxidase [flavin-containing] B
+Arachidonic acid	 associated_with 	 Pancreatic lipase-related protein 3
+Guanosine triphosphate	 associated_with 	 PH and SEC7 domain-containing protein 1
+Myristic acid	 associated_with 	 Liver carboxylesterase 1
+Adenosine triphosphate	 associated_with 	 L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase
+ADP	 associated_with 	 Myosin light chain kinase family member 4
+Adenosine triphosphate	 associated_with 	 Diacylglycerol kinase beta
+S-Adenosylhomocysteine	 associated_with 	 Probable dimethyladenosine transferase
+LysoPC(20:4(5Z,8Z,11Z,14Z)/0:0)	 associated_with 	 Platelet-activating factor acetylhydrolase IB subunit gamma
+Fe2+	 associated_with 	 Tartrate-resistant acid phosphatase type 5
+27-Hydroxycholesterol	 associated_with 	 25-hydroxycholesterol 7-alpha-hydroxylase
+Formic acid	 associated_with 	 Cytochrome P450 2S1
+14,15-Epoxy-5,8,11-eicosatrienoic acid	 associated_with 	 Cytochrome P450 3A4
+Guanosine triphosphate	 associated_with 	 Rho guanine nucleotide exchange factor 17
+Water	 associated_with 	 Lysyl oxidase homolog 2
+L-Glutamic acid	 associated_with 	 N-acetylglutamate synthase, mitochondrial
+Quetiapine	 associated_with 	 5-hydroxytryptamine receptor 2B
+Calcium	 associated_with 	 Homer protein homolog 1
+Guanosine triphosphate	 associated_with 	 Rho-guanine nucleotide exchange factor
+Adenosine triphosphate	 associated_with 	 Probable ATP-dependent DNA helicase HFM1
+Magnesium	 associated_with 	 Nucleoside diphosphate kinase 3
+Fe2+	 associated_with 	 Inositol oxygenase
+Magnesium	 associated_with 	 Protein phosphatase 1F
+Guanosine triphosphate	 associated_with 	 Tubulin beta chain
+Guanosine triphosphate	 associated_with 	 Interferon-induced guanylate-binding protein 2
+Adenosine triphosphate	 associated_with 	 ATP synthase lipid-binding protein, mitochondrial
+SM(d18:1/18:1(9Z))	 associated_with 	 Glycolipid transfer protein domain-containing protein 1
+Cyclic AMP	 associated_with 	 Serine/threonine-protein kinase PRKX
+9,10-Epoxyoctadecenoic acid	 associated_with 	 Cytochrome P450 4B1
+Theophylline	 associated_with 	 cAMP-specific 3',5'-cyclic phosphodiesterase 4B
+Cyclic AMP	 associated_with 	 Adenylate cyclase type 7
+Water	 associated_with 	 Peroxiredoxin-5, mitochondrial
+Manganese	 associated_with 	 Guanylate cyclase soluble subunit alpha-3
+Succinic acid	 associated_with 	 Lysine-specific demethylase 2A
+Adenosine monophosphate	 associated_with 	 Valine--tRNA ligase, mitochondrial
+Phosphorylcholine	 associated_with 	 Ectonucleotide pyrophosphatase/phosphodiesterase family member 6
+SM(d18:0/22:2(13Z,16Z)(OH))	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit Q
+Calcium	 associated_with 	 Cadherin-4
+Calcium	 associated_with 	 C-C chemokine receptor type 4
+Sodium	 associated_with 	 Sodium- and chloride-dependent betaine transporter
+Zinc	 associated_with 	 Carboxypeptidase N subunit 2
+Adenosine monophosphate	 associated_with 	 E3 ubiquitin-protein ligase Mdm2
+L-Alanine	 associated_with 	 Alanine aminotransferase 2
+L-Glutamic acid	 associated_with 	 5-oxoprolinase
+Water	 associated_with 	 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-1
+Magnesium	 associated_with 	 Protein ATP1B4
+Water	 associated_with 	 Annexin A3
+Adenosine triphosphate	 associated_with 	 Death-associated protein kinase 2
+Cadmium	 associated_with 	 Chondroitin sulfate synthase 3
+3,4-Dihydroxyphenylglycol	 associated_with 	 Alcohol dehydrogenase 6
+ADP	 associated_with 	 Vascular endothelial growth factor receptor 2
+Adenosine triphosphate	 associated_with 	 Pre-mRNA-processing factor 19
+Water	 associated_with 	 Potassium-transporting ATPase alpha chain 2
+Water	 associated_with 	 Receptor-type tyrosine-protein phosphatase U
+Calcium	 associated_with 	 Serine/threonine-protein phosphatase PP1-gamma catalytic subunit
+Adenosine monophosphate	 associated_with 	 Selenide, water dikinase 2
+Sodium	 associated_with 	 Sodium/potassium/calcium exchanger 5
+Dextromethorphan	 associated_with 	 Glutamate [NMDA] receptor subunit 3A
+Sodium	 associated_with 	 Sodium-coupled monocarboxylate transporter 1
+Fe2+	 associated_with 	 Iron-responsive element-binding protein 2
+ADP	 associated_with 	 Probable ATP-dependent RNA helicase DDX10
+Calcium	 associated_with 	 Copine-1
+Adenosine triphosphate	 associated_with 	 Ribose-phosphate pyrophosphokinase 2
+Testosterone	 associated_with 	 Cytochrome P450 4X1
+SM(d18:0/22:2(13Z,16Z)(OH))	 associated_with 	 GPI ethanolamine phosphate transferase 1
+Serotonin	 associated_with 	 Methyltransferase-like protein 2B
+ADP	 associated_with 	 Sedoheptulokinase
+SM(d18:1/24:0)	 associated_with 	 Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase
+S-Adenosylmethionine	 associated_with 	 S-adenosylmethionine synthase isoform type-2
+ADP	 associated_with 	 Interleukin-1 receptor-associated kinase 3
+Acetic acid	 associated_with 	 Serum paraoxonase/lactonase 3
+Isopropyl alcohol	 associated_with 	 Aldehyde dehydrogenase X, mitochondrial
+Chloride ion	 associated_with 	 Bestrophin-1
+Arsenite	 associated_with 	 Arsenite methyltransferase
+Palmitoleic acid	 associated_with 	 S-acyl fatty acid synthase thioesterase, medium chain
+Calcium	 associated_with 	 Protocadherin alpha-5
+Manganese	 associated_with 	 Dual specificity testis-specific protein kinase 1
+Ethanol	 associated_with 	 Neuronal acetylcholine receptor subunit alpha-6
+Folic acid	 associated_with 	 Solute carrier family 22 member 6
+Guanidine	 associated_with 	 Solute carrier family 22 member 1
+ADP	 associated_with 	 Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta isoform
+SM(d18:1/18:1(11Z))	 associated_with 	 Beta-1,3-galactosyltransferase 5
+Glycerol	 associated_with 	 Hormone-sensitive lipase
+Water	 associated_with 	 Protein ATP1B4
+L-Arginine	 associated_with 	 Probable arginine--tRNA ligase, mitochondrial
+L-Phenylalanine	 associated_with 	 FARSLA protein
+Calcium	 associated_with 	 Guanylyl cyclase-activating protein 3
+Bilirubin	 associated_with 	 UDP-glucuronosyltransferase 1-9
+Stearic acid	 associated_with 	 Long-chain fatty acid transport protein 6
+Guanosine triphosphate	 associated_with 	 Guanylate-binding protein 6
+beta-Alanine	 associated_with 	 Alpha-aminoadipic semialdehyde dehydrogenase
+SM(d18:0/16:1(9Z))	 associated_with 	 Beta-1,3-galactosyltransferase 5
+Chloride ion	 associated_with 	 Anoctamin-6
+Water	 associated_with 	 Probable ATP-dependent RNA helicase DDX20
+Water	 associated_with 	 Carbonic anhydrase 7
+ADP	 associated_with 	 L-fucose kinase
+L-Lysine	 associated_with 	 Lysine--tRNA ligase
+Androstenedione	 associated_with 	 3-oxo-5-beta-steroid 4-dehydrogenase
+Cyclic AMP	 associated_with 	 Multidrug resistance-associated protein 5
+L-Glutamic acid	 associated_with 	 Gamma-glutamyltransferase 7
+Fe2+	 associated_with 	 Solute carrier family 40 member 1
+Ammonia	 associated_with 	 AMP deaminase 1
+Sarcosine	 associated_with 	 Proton-coupled amino acid transporter 2
+Estradiol	 associated_with 	 Cytochrome P450 3A5
+SM(d18:1/24:0)	 associated_with 	 Globoside alpha-1,3-N-acetylgalactosaminyltransferase 1
+Water	 associated_with 	 U5 small nuclear ribonucleoprotein 200 kDa helicase
+S-Adenosylmethionine	 associated_with 	 Histone-lysine N-methyltransferase, H3 lysine-79 specific
+Fe2+	 associated_with 	 Serine/threonine-protein phosphatase PP1-beta catalytic subunit
+Ammonia	 associated_with 	 Kynurenine--oxoglutarate transaminase 3
+Calcium	 associated_with 	 Solute carrier family 12 member 3
+ADP	 associated_with 	 Putative nucleoside diphosphate kinase
+SM(d18:0/24:1(15Z)(OH))	 associated_with 	 Sphingomyelin phosphodiesterase 3
+Guanosine triphosphate	 associated_with 	 Nucleoside diphosphate kinase 3
+Cobalt	 associated_with 	 Methylmalonyl-CoA mutase, mitochondrial
+Vasopressin	 associated_with 	 Arginine vasopressin V2 receptor
+Sodium	 associated_with 	 Neutral amino acid transporter B(0)
+SM(d18:0/14:1(9Z)(OH))	 associated_with 	 N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+alpha-Ketoisovaleric acid	 associated_with 	 Monocarboxylate transporter 4
+ADP	 associated_with 	 Nucleoside diphosphate-linked moiety X motif 17
+SM(d18:1/26:0)	 associated_with 	 N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+Choline	 associated_with 	 Choline-phosphate cytidylyltransferase B
+Adenosine monophosphate	 associated_with 	 Glycogen phosphorylase, brain form
+ADP	 associated_with 	 Calcium/calmodulin-dependent protein kinase I, isoform CRA_a
+Adenosine triphosphate	 associated_with 	 Dual specificity testis-specific protein kinase 1
+Water	 associated_with 	 ATPase family AAA domain-containing protein 1
+Glycerol	 associated_with 	 Alcohol dehydrogenase 1C
+ADP	 associated_with 	 Serine/threonine-protein kinase 32A
+Adenosine monophosphate	 associated_with 	 Ectonucleotide pyrophosphatase/phosphodiesterase family member 1
+Pregnenolone	 associated_with 	 25-hydroxycholesterol 7-alpha-hydroxylase
+Angiotensin II	 associated_with 	 Type-2 angiotensin II receptor
+Adenosine triphosphate	 associated_with 	 Tyrosine-protein kinase Tec
+Calcium	 associated_with 	 Protocadherin-20
+L-Methionine	 associated_with 	 Monocarboxylate transporter 10
+Adenosine triphosphate	 associated_with 	 Mitogen-activated protein kinase kinase kinase kinase 4
+Adenosine triphosphate	 associated_with 	 Serine/threonine-protein kinase Nek1
+Cyanocobalamin	 associated_with 	 Methionine synthase reductase
+Myristic acid	 associated_with 	 Dehydrogenase/reductase SDR family member 4
+Pyruvic acid	 associated_with 	 Alanine aminotransferase 1
+Adenosine triphosphate	 associated_with 	 Protein kinase C alpha type
+alpha-Tocopherol	 associated_with 	 Glutamate--cysteine ligase catalytic subunit
+Manganese	 associated_with 	 Protein phosphatase 1G
+Paraxanthine	 associated_with 	 Cytochrome P450 2D6
+Androsterone	 associated_with 	 UDP-glucuronosyltransferase 1-7
+ADP	 associated_with 	 Macrophage-stimulating protein receptor
+Glutathione	 associated_with 	 Epididymal secretory glutathione peroxidase
+alpha-Ketoisovaleric acid	 associated_with 	 2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial
+S-Adenosylhomocysteine	 associated_with 	 Nicotinamide N-methyltransferase
+Adenosine monophosphate	 associated_with 	 NEDD8-conjugating enzyme UBE2F
+Bilirubin	 associated_with 	 HCG2039726, isoform CRA_e
+Water	 associated_with 	 Arylsulfatase B
+Adenosine monophosphate	 associated_with 	 5'-nucleotidase
+Guanosine triphosphate	 associated_with 	 Nucleoside diphosphate kinase, mitochondrial
+Manganese	 associated_with 	 2-5A-dependent ribonuclease
+Calcium	 associated_with 	 Calcineurin-binding protein cabin-1
+Manganese	 associated_with 	 Serine/threonine-protein kinase SMG1
+Calcium	 associated_with 	 Neuron-specific vesicular protein calcyon
+Water	 associated_with 	 Peptidyl-glycine alpha-amidating monooxygenase
+L-Isoleucine	 associated_with 	 Isoleucine--tRNA ligase, mitochondrial
+Zinc	 associated_with 	 Ras-responsive element-binding protein 1
+Chloride ion	 associated_with 	 H(+)/Cl(-) exchange transporter 4
+SM(d18:0/14:1(9Z)(OH))	 associated_with 	 Sphingomyelin phosphodiesterase 3
+Calcium	 associated_with 	 Tubulin beta chain
+Adenosine triphosphate	 associated_with 	 Serine/threonine-protein kinase 32B
+Hydrogen carbonate	 associated_with 	 Carbonic anhydrase 7
+Calcium	 associated_with 	 Small conductance calcium-activated potassium channel protein 3
+Guanosine triphosphate	 associated_with 	 GTP cyclohydrolase 1 feedback regulatory protein
+Progesterone	 associated_with 	 Cytochrome P450 1A2
+Magnesium	 associated_with 	 Protein O-mannosyl-transferase 2
+L-Glutamic acid	 associated_with 	 Glutamate receptor, ionotropic kainate 1
+Calcium	 associated_with 	 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-4
+Calcium	 associated_with 	 Polycystin-1
+Calcium	 associated_with 	 Neuronal acetylcholine receptor subunit alpha-10
+Adenosine monophosphate	 associated_with 	 cGMP-inhibited 3',5'-cyclic phosphodiesterase B
+SM(d18:1/26:1(17Z))	 associated_with 	 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3
+Magnesium	 associated_with 	 Serine/threonine-protein kinase MRCK gamma
+Guanosine triphosphate	 associated_with 	 DNA-directed RNA polymerase I subunit RPA49
+L-Glutamic acid	 associated_with 	 Kynurenine--oxoglutarate transaminase 1
+Caffeine	 associated_with 	 Cytochrome P450 4X1
+SM(d18:1/18:1(11Z))	 associated_with 	 Ganglioside GM2 activator
+Ammonia	 associated_with 	 Porphobilinogen deaminase
+Calcium	 associated_with 	 Gastrin/cholecystokinin type B receptor
+Creatine	 associated_with 	 Creatine kinase U-type, mitochondrial
+Choline	 associated_with 	 Choline/ethanolamine kinase
+Hyaluronic acid	 associated_with 	 Stabilin-2
+Fe2+	 associated_with 	 Arachidonate 12-lipoxygenase, 12R-type
+S-Adenosylhomocysteine	 associated_with 	 tRNA (guanine(37)-N1)-methyltransferase
+Isopropyl alcohol	 associated_with 	 Acid phosphatase-like protein 2
+Magnesium	 associated_with 	 Isopentenyl-diphosphate Delta-isomerase 2
+S-Adenosylhomocysteine	 associated_with 	 Histone-lysine N-methyltransferase ASH1L
+Guanosine triphosphate	 associated_with 	 Guanine nucleotide exchange factor VAV3
+Calcium	 associated_with 	 Group IIF secretory phospholipase A2
+Magnesium	 associated_with 	 Cell division protein kinase 8
+Glutathione	 associated_with 	 Microsomal glutathione S-transferase 3
+Pyroglutamic acid	 associated_with 	 5-oxoprolinase
+Calcium	 associated_with 	 CB1 cannabinoid receptor-interacting protein 1
+Hydrogen carbonate	 associated_with 	 Lactotransferrin
+S-Adenosylhomocysteine	 associated_with 	 Indolethylamine N-methyltransferase
+L-Methionine	 associated_with 	 Methionine-R-sulfoxide reductase B1
+L-Alanine	 associated_with 	 Cysteine desulfurase, mitochondrial
+Calcium	 associated_with 	 P2X purinoceptor 1
+Calcium	 associated_with 	 Group 3 secretory phospholipase A2
+D-Glucose	 associated_with 	 Lysosomal alpha-glucosidase
+SM(d18:1/18:0)	 associated_with 	 Phosphatidylcholine:ceramide cholinephosphotransferase 2
+Progesterone	 associated_with 	 Membrane-associated progesterone receptor component 2
+Magnesium	 associated_with 	 Glutamate [NMDA] receptor subunit epsilon-1
+Water	 associated_with 	 V-type proton ATPase catalytic subunit A
+Copper	 associated_with 	 Membrane-bound transcription factor site-1 protease
+Guanosine triphosphate	 associated_with 	 DNA-directed RNA polymerase III subunit RPC6
+Calcium	 associated_with 	 Kappa-type opioid receptor
+Potassium	 associated_with 	 Potassium voltage-gated channel subfamily KQT member 1
+ADP	 associated_with 	 Mitogen-activated protein kinase 13
+Nicotinic acid	 associated_with 	 Nicotinamide N-methyltransferase
+Asymmetric dimethylarginine	 associated_with 	 N(G),N(G)-dimethylarginine dimethylaminohydrolase 1
+Water	 associated_with 	 ATP-dependent RNA helicase DDX19A
+Calcium	 associated_with 	 Cation channel sperm-associated protein 2
+Adenosine triphosphate	 associated_with 	 Ubiquitin carrier protein
+Manganese	 associated_with 	 cAMP-specific 3',5'-cyclic phosphodiesterase 4D
+Water	 associated_with 	 Putative ATP-dependent RNA helicase DDX12
+L-Carnitine	 associated_with 	 Xanthine dehydrogenase/oxidase
+Adenosine triphosphate	 associated_with 	 Mitogen-activated protein kinase 7
+Oleic acid	 associated_with 	 Acyl-coenzyme A thioesterase 2, mitochondrial
+Calcium	 associated_with 	 Troponin T, slow skeletal muscle
+Calcium	 associated_with 	 Myosin light chain 6B
+ADP	 associated_with 	 Bloom syndrome protein
+3-Hydroxybutyric acid	 associated_with 	 UDP-glucuronosyltransferase 1-1
+Calcium	 associated_with 	 Immunoglobulin superfamily member 2
+Adenosine monophosphate	 associated_with 	 E3 ubiquitin-protein ligase RNF144B
+Guanosine diphosphate	 associated_with 	 GTP-binding protein Rit2
+L-Alanine	 associated_with 	 N-acetylmuramoyl-L-alanine amidase
+Fe2+	 associated_with 	 Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial
+Calcium	 associated_with 	 Tuberoinfundibular peptide of 39 residues
+Adenosine triphosphate	 associated_with 	 Interleukin-1 receptor-associated kinase 3
+SM(d18:1/18:1(9Z))	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit A
+Water	 associated_with 	 Hepatic triacylglycerol lipase
+Cyclic GMP	 associated_with 	 Guanylate cyclase soluble subunit beta-2
+Calcium	 associated_with 	 5-hydroxytryptamine receptor 2B
+Adenosine triphosphate	 associated_with 	 Cell division protein kinase 9
+Calcium	 associated_with 	 Protein kinase C beta type
+Adenosine triphosphate	 associated_with 	 Inosine triphosphate pyrophosphatase
+Putrescine	 associated_with 	 S-methylmethionine--homocysteine S-methyltransferase BHMT2
+Sodium	 associated_with 	 Sodium/hydrogen exchanger 5
+ADP	 associated_with 	 Putative uncharacterized protein WNK2
+ADP	 associated_with 	 CTP synthase 1
+Water	 associated_with 	 Trans-L-3-hydroxyproline dehydratase
+SM(d18:1/26:1(17Z))	 associated_with 	 GPI mannosyltransferase 3
+Ureidoisobutyric acid	 associated_with 	 Beta-ureidopropionase
+alpha-Ketoisovaleric acid	 associated_with 	 Branched-chain-amino-acid aminotransferase, cytosolic
+Guanosine triphosphate	 associated_with 	 Putative E3 ubiquitin-protein ligase SH3RF1
+Water	 associated_with 	 Katanin p60 ATPase-containing subunit A-like 2
+SM(d18:0/24:1(15Z)(OH))	 associated_with 	 Putative uncharacterized protein DKFZp434L0435
+Calcium	 associated_with 	 Acylpyruvase FAHD1, mitochondrial
+Adenosine monophosphate	 associated_with 	 Acetyl-coenzyme A synthetase 2-like, mitochondrial
+Guanosine diphosphate	 associated_with 	 Mitofusin-1
+Guanosine triphosphate	 associated_with 	 Ras-related GTP-binding protein C
+Guanosine diphosphate	 associated_with 	 Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-4
+Citric acid	 associated_with 	 Beta-citryl-glutamate synthase B
+Calcium	 associated_with 	 Protocadherin alpha-6
+Formic acid	 associated_with 	 Cytochrome P450 2A13
+Calcium	 associated_with 	 Phospholipase A2
+Calcium	 associated_with 	 Protocadherin beta-9
+Adenosine triphosphate	 associated_with 	 Serine/threonine-protein kinase Nek9
+Manganese	 associated_with 	 Polypeptide N-acetylgalactosaminyltransferase 6
+Oxidized glutathione	 associated_with 	 Thioredoxin domain-containing protein 12
+Calcium	 associated_with 	 Nuclear factor of activated T-cells, cytoplasmic 2
+Arachidonic acid	 associated_with 	 Cytosolic phospholipase A2 beta
+SM(d18:0/16:1(9Z)(OH))	 associated_with 	 GPI ethanolamine phosphate transferase 3
+7-Dehydrocholesterol	 associated_with 	 Hydroxymethylglutaryl-CoA synthase, mitochondrial
+Norepinephrine	 associated_with 	 Solute carrier family 22 member 5
+Acetylcholine	 associated_with 	 Choline O-acetyltransferase
+Zinc	 associated_with 	 Carboxypeptidase D
+Water	 associated_with 	 Intestinal-type alkaline phosphatase
+Stearic acid	 associated_with 	 Cholinesterase
+S-Adenosylmethionine	 associated_with 	 Indolethylamine N-methyltransferase
+Inosine	 associated_with 	 Adenosine deaminase CECR1
+ADP	 associated_with 	 ATP synthase subunit e, mitochondrial
+SM(d18:0/22:2(13Z,16Z)(OH))	 associated_with 	 Sphingomyelin phosphodiesterase 4
+ADP	 associated_with 	 Probable ATP-dependent RNA helicase DDX6
+ADP	 associated_with 	 Maternal embryonic leucine zipper kinase
+Adenosine triphosphate	 associated_with 	 Serine/threonine-protein kinase PLK1
+Glyoxylic acid	 associated_with 	 D-amino-acid oxidase
+Hydroxypropionic acid	 associated_with 	 3-hydroxyisobutyryl-CoA hydrolase, mitochondrial
+Pyridoxal 5'-phosphate	 associated_with 	 Serine palmitoyltransferase 1
+Adenosine triphosphate	 associated_with 	 Mitotic checkpoint serine/threonine-protein kinase BUB1
+Adenosine triphosphate	 associated_with 	 RNA 3'-terminal phosphate cyclase
+Sodium	 associated_with 	 Beta-defensin 104
+Pyridoxal 5'-phosphate	 associated_with 	 Ornithine aminotransferase, mitochondrial
+Theophylline	 associated_with 	 Cytochrome P450 2D6
+L-Alanine	 associated_with 	 Alanine aminotransferase 1
+Magnesium	 associated_with 	 Serine/threonine-protein kinase/endoribonuclease IRE1
+Adenosine triphosphate	 associated_with 	 Glutathione synthetase
+Calcium	 associated_with 	 Sodium- and chloride-dependent transporter XTRP3
+ADP	 associated_with 	 Probable ATP-dependent RNA helicase DDX23
+Magnesium	 associated_with 	 8-oxo-dGDP phosphatase NUDT18
+Manganese	 associated_with 	 Polypeptide N-acetylgalactosaminyltransferase 14
+Formic acid	 associated_with 	 Cytochrome P450 3A7
+Calcium	 associated_with 	 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-2
+Water	 associated_with 	 Fructose-2,6-bisphosphatase TIGAR
+Water	 associated_with 	 Ferritin heavy chain
+Cyclic AMP	 associated_with 	 Cyclic AMP-dependent transcription factor ATF-3
+Cholesterol	 associated_with 	 Steryl-sulfatase
+ADP	 associated_with 	 TFIIH basal transcription factor complex helicase XPD subunit
+Ammonia	 associated_with 	 Protein-glutamine gamma-glutamyltransferase E
+ADP	 associated_with 	 DNA replication licensing factor MCM3
+SM(d18:1/18:0)	 associated_with 	 Lipopolysaccharide-binding protein
+9,10-Epoxyoctadecenoic acid	 associated_with 	 Cytochrome P450 4X1
+SM(d18:0/24:1(15Z)(OH))	 associated_with 	 Lipopolysaccharide-binding protein
+Water	 associated_with 	 Acyl-CoA desaturase
+Water	 associated_with 	 Cytosolic acyl coenzyme A thioester hydrolase-like
+Potassium	 associated_with 	 S-adenosylmethionine synthase isoform type-1
+ADP	 associated_with 	 Myosin-IIIa
+gamma-Aminobutyric acid	 associated_with 	 Gamma-aminobutyric acid receptor subunit alpha-2
+Guanosine triphosphate	 associated_with 	 Guanine nucleotide exchange factor VAV2
+Arachidonic acid	 associated_with 	 Cytochrome P450 2S1
+Adenosine triphosphate	 associated_with 	 DNA replication ATP-dependent helicase/nuclease DNA2
+Calcium	 associated_with 	 Protocadherin alpha-11
+Water	 associated_with 	 Platelet-activating factor acetylhydrolase 2, cytoplasmic
+Adenosine triphosphate	 associated_with 	 DNA-directed RNA polymerase I subunit RPA2
+Pyruvic acid	 associated_with 	 Acylpyruvase FAHD1, mitochondrial
+Adenosine triphosphate	 associated_with 	 Ubiquitin-conjugating enzyme E2 T
+Chloride ion	 associated_with 	 Na(+)/H(+) exchange regulatory cofactor NHE-RF3
+SM(d18:1/16:0)	 associated_with 	 Phosphatidylinositol N-acetylglucosaminyltransferase subunit P
+Guanosine triphosphate	 associated_with 	 DNA-directed RNA polymerase II subunit RPB11-a
+ADP	 associated_with 	 Chromodomain-helicase-DNA-binding protein 4
+Guanosine triphosphate	 associated_with 	 Guanine nucleotide exchange factor DBS
+3,4-Dihydroxyphenylglycol	 associated_with 	 Alcohol dehydrogenase 1B
+Calcium	 associated_with 	 Short transient receptor potential channel 5
+Acetic acid	 associated_with 	 4-trimethylaminobutyraldehyde dehydrogenase
+SM(d18:0/22:1(13Z)(OH))	 associated_with 	 Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase
+Sorbitol	 associated_with 	 Hexokinase-2
+Guanidine	 associated_with 	 Disks large homolog 4
+Sodium	 associated_with 	 Sodium- and chloride-dependent GABA transporter 2
+ADP	 associated_with 	 V-type proton ATPase subunit e 2
+Testosterone	 associated_with 	 UDP-glucuronosyltransferase 2B15
+11,12-Epoxyeicosatrienoic acid	 associated_with 	 Cytochrome P450 4B1
+Riboflavin	 associated_with 	 Flavin reductase (NADPH)
+Water	 associated_with 	 Protoheme IX farnesyltransferase, mitochondrial
+LysoPC(20:4(5Z,8Z,11Z,14Z)/0:0)	 associated_with 	 85/88 kDa calcium-independent phospholipase A2
+LysoPC(18:0/0:0)	 associated_with 	 Lysophosphatidylcholine acyltransferase 1
+L-Glutamine	 associated_with 	 Glutaminase kidney isoform, mitochondrial
+SM(d18:1/18:1(11Z))	 associated_with 	 Protein PLEKHA9
+11,12-Epoxyeicosatrienoic acid	 associated_with 	 Cytochrome P450 4Z1
+Adenosine triphosphate	 associated_with 	 Cysteine--tRNA ligase, cytoplasmic
+Estradiol	 associated_with 	 UDP-glucuronosyltransferase 1-6
+Water	 associated_with 	 Vesicle-fusing ATPase
+SM(d18:1/18:0)	 associated_with 	 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3
+ADP	 associated_with 	 Proto-oncogene tyrosine-protein kinase Src
+Norepinephrine	 associated_with 	 Phenylalanine-4-hydroxylase
+Propionic acid	 associated_with 	 Acetyl-coenzyme A synthetase 2-like, mitochondrial
+D-Mannose	 associated_with 	 Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase
+ADP	 associated_with 	 Mitogen-activated protein kinase kinase kinase 9
+L-Cysteine	 associated_with 	 Cysteine desulfurase, mitochondrial
+Water	 associated_with 	 Inositol polyphosphate 5-phosphatase K
+L-Tryptophan	 associated_with 	 L-amino-acid oxidase
+Guanosine diphosphate	 associated_with 	 Ectonucleoside triphosphate diphosphohydrolase 8
+Adenosine monophosphate	 associated_with 	 cAMP-specific 3',5'-cyclic phosphodiesterase 4C
+Cyclic GMP	 associated_with 	 cGMP-gated cation channel alpha-1
+Magnesium	 associated_with 	 3'-5' exoribonuclease 1
+Magnesium	 associated_with 	 Phosphoethanolamine/phosphocholine phosphatase
+Adenosine monophosphate	 associated_with 	 Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma
+Spermine	 associated_with 	 Diamine acetyltransferase 2
+Cobalamin	 associated_with 	 Gastric intrinsic factor
+D-Glucose	 associated_with 	 Maltase-glucoamylase, intestinal
+Guanosine triphosphate	 associated_with 	 DNA-directed RNA polymerase III subunit RPC1
+ADP	 associated_with 	 U5 small nuclear ribonucleoprotein 200 kDa helicase
+Sodium	 associated_with 	 Amiloride-sensitive cation channel 2, neuronal
+Adenosine triphosphate	 associated_with 	 Cancer-related nucleoside-triphosphatase
+SM(d18:1/24:1(15Z))	 associated_with 	 GPI ethanolamine phosphate transferase 1
+Androsterone	 associated_with 	 UDP-glucuronosyltransferase 2A1
+Calcium	 associated_with 	 C-C chemokine receptor type 10
+Adenosine triphosphate	 associated_with 	 Activin receptor type-1C
+Adenosine monophosphate	 associated_with 	 E3 ubiquitin-protein ligase RNF5
+12,13-EpOME	 associated_with 	 Cytochrome P450 2C9
+Water	 associated_with 	 Ribonucleoside-diphosphate reductase subunit M2
+Adenosine	 associated_with 	 Putative adenosylhomocysteinase 2
+Calcium	 associated_with 	 Desmocollin-1
+Adenosine triphosphate	 associated_with 	 DNA replication licensing factor MCM3
+Adenosine monophosphate	 associated_with 	 Tryptophan--tRNA ligase, mitochondrial
+Water	 associated_with 	 Tyrosinase
+ADP	 associated_with 	 Katanin p60 ATPase-containing subunit A1
+Water	 associated_with 	 High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8A
+SM(d18:1/16:0)	 associated_with 	 Phosphatidylinositol-glycan biosynthesis class W protein
+Potassium	 associated_with 	 Potassium voltage-gated channel subfamily C member 3
